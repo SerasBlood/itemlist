@@ -486,6 +486,12 @@
     "version": null
   },
   {
+    "author": "VAMV",
+    "name": "Maru Race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Outremer and Fortified_Home",
     "name": "Miho, the celestial fox",
     "steamId": null,
@@ -542,6 +548,18 @@
   {
     "author": "darkmiz",
     "name": "Kurin HAR Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EoralMilk",
+    "name": "Face Addon Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "EoralMilk",
+    "name": "Kurin Meow Edition",
     "steamId": null,
     "version": null
   },
@@ -1320,6 +1338,30 @@
     "version": null
   },
   {
+    "author": "Nals",
+    "name": "[NL] Compatible Body 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Realistic Body",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NALS",
+    "name": "[NL] Apparel Paper Pattern",
+    "steamId": "2480887589",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "WRelicK",
+    "name": "WRelicK's APP Utilities",
+    "steamId": "2839443438",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Uuugggg",
     "name": "What Is My Purpose",
     "steamId": "1346064449",
@@ -1376,6 +1418,12 @@
   {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Races Expanded - Waster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "anyone",
+    "name": "Xeva FB Pack",
     "steamId": null,
     "version": null
   },
