@@ -7543,7 +7543,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 524524,
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is the main character and has plot armor.",
@@ -7883,7 +7883,7 @@
       "defName": "Dragonian_Race",
       "enabled": true,
       "name": "Dragonian",
-      "price": 9667
+      "price": 100
     },
     {
       "data": {
@@ -7904,7 +7904,7 @@
       "defName": "Alien_Nyaron",
       "enabled": true,
       "name": "Nyaron",
-      "price": 5000
+      "price": 100
     },
     {
       "data": {
@@ -7956,7 +7956,7 @@
       "defName": "Rakkle",
       "enabled": true,
       "name": "Rakkle",
-      "price": 5833
+      "price": 100
     }
   ]
 }
