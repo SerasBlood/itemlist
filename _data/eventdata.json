@@ -210,9 +210,9 @@
   "meteor": {
     "EventType": "Default",
     "HasGlobalCooldown": true,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 9999,
-    "LocalCooldown": 0,
+    "LocalCooldown": 9999,
     "Mod": "Twitch Toolkit"
   },
   "maninblack": {
