@@ -5446,19 +5446,19 @@
       "abr": "1x1lockerbank",
       "category": "Furniture",
       "defname": "1x1LockerBank",
-      "price": 185
+      "price": -10
     },
     {
       "abr": "1x2lockerbank",
       "category": "Furniture",
       "defname": "1x2LockerBank",
-      "price": 199
+      "price": -10
     },
     {
       "abr": "1x3lockerbank",
       "category": "Furniture",
       "defname": "1x3LockerBank",
-      "price": 558
+      "price": -10
     },
     {
       "abr": "mealcratea",
@@ -12688,7 +12688,7 @@
       "abr": "aberrantfleshbeast",
       "category": "Animals",
       "defname": "GR_AberrantFleshbeast",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "aberrantmeat",
@@ -25990,49 +25990,49 @@
       "abr": "▲",
       "category": "Misc",
       "defname": "YR_Bunker_Ready_BlackSnake",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "▲",
       "category": "Misc",
       "defname": "YR_Bunker_Fire_BlackSnake",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "▼▼",
       "category": "Animals",
       "defname": "YR_Sikigami_Snake_Noroi",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "▽▽",
       "category": "Animals",
       "defname": "YR_Sikigami_Snake",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "◈",
       "category": "Misc",
       "defname": "YR_BlackSnake_Ready",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "◈",
       "category": "Misc",
       "defname": "YR_BlackSnake_Set",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "◈",
       "category": "Misc",
       "defname": "YR_BlackSnake_End",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "◈",
       "category": "Misc",
       "defname": "YR_BlackSnake_SpawnSet",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "◈",

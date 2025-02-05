@@ -14929,7 +14929,7 @@
       },
       "description": "She is Miko who is fluent in curses.\nAccording to the record, she even overcame death.",
       "defName": "Yuran_Race_Miko_BlackSnake",
-      "enabled": true,
+      "enabled": false,
       "name": "Yuran BlackSnake",
       "price": 100
     },
@@ -14953,7 +14953,7 @@
       },
       "description": "The subject is quadrupedeal with a humanoid torso.",
       "defName": "Centaur",
-      "enabled": true,
+      "enabled": false,
       "name": "Centaur",
       "price": 2917
     }

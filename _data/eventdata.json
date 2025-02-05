@@ -411,7 +411,7 @@
     "EventType": "Default",
     "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 9999,
+    "GlobalCooldown": 900,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
