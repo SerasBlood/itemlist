@@ -211,8 +211,8 @@
     "EventType": "Default",
     "HasGlobalCooldown": true,
     "HasLocalCooldown": true,
-    "GlobalCooldown": 9999,
-    "LocalCooldown": 9999,
+    "GlobalCooldown": 120,
+    "LocalCooldown": 500,
     "Mod": "Twitch Toolkit"
   },
   "maninblack": {
@@ -450,7 +450,7 @@
   "pawn": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 9999,
     "Mod": "Twitch Toolkit"
