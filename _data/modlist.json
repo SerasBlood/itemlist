@@ -186,6 +186,12 @@
     "version": null
   },
   {
+    "author": "RedMattis",
+    "name": "Better Gene Inheritance",
+    "steamId": "3046776238",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Dyrewulfe",
     "name": "Better Message Placement (Continued)",
     "steamId": null,
@@ -402,6 +408,12 @@
     "version": null
   },
   {
+    "author": "FaintingGoat",
+    "name": "GeneLibrary",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
@@ -504,6 +516,12 @@
     "version": "1.12.17+6db7d75d6e1005522b3ed749fab1d56e12fc2a46"
   },
   {
+    "author": "turkler",
+    "name": "Mechanitor Encounters",
+    "steamId": "3417287863",
+    "version": "0.1.0.0"
+  },
+  {
     "author": "sumghai",
     "name": "MedPod",
     "steamId": "2153065191",
@@ -568,6 +586,12 @@
     "name": "More Persona Traits",
     "steamId": "2863308112",
     "version": "1.2.8886.35275"
+  },
+  {
+    "author": "Gwibbo",
+    "name": "More Psycaster Genes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kirby",
@@ -987,7 +1011,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.5.35"
+    "version": "1.5.36"
   },
   {
     "author": "Nephlite and Maxim",
@@ -1120,6 +1144,12 @@
     "name": "Xenotype Xenogerms (Continued)",
     "steamId": "3272195098",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Addie",
+    "name": "[1.5]Addie's Gunblade Arsenal",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Arylice",
@@ -1696,6 +1726,12 @@
     "name": "Mad Skills",
     "steamId": "731111514",
     "version": "2.7.0.0"
+  },
+  {
+    "author": "Epicguru",
+    "name": "Melee Animation",
+    "steamId": "2944488802",
+    "version": "1.0.0+46a9740cb50a3dad6d14d360704a585040167a04"
   },
   {
     "author": "Outremer and Fortified_Home",
