@@ -363,7 +363,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
-      "stats": [],
+      "stats": [
+        "Wealth meditation focus type allowed."
+      ],
       "conflicts": [
         "ascetic",
         "jealous"
@@ -374,7 +376,9 @@
           "ascetic",
           "jealous"
         ],
-        "stats": [],
+        "stats": [
+          "Wealth meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2017,12 +2021,20 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "The fewer people in Timmy's faction, the happier he is. Being alone is best of all.",
-      "stats": [],
+      "stats": [
+        "Inspired recruitment inspiration disabled.",
+        "Party frenzy inspiration disabled.",
+        "Flirting frenzy inspiration disabled."
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "Inspired recruitment inspiration disabled.",
+          "Party frenzy inspiration disabled.",
+          "Flirting frenzy inspiration disabled."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2353,7 +2365,10 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
-      "stats": [],
+      "stats": [
+        "Shoot frenzy inspiration disabled.",
+        "Melee frenzy inspiration disabled."
+      ],
       "conflicts": [
         "brave",
         "bloodlust",
@@ -2366,7 +2381,10 @@
           "bloodlust",
           "brawler"
         ],
-        "stats": [],
+        "stats": [
+          "Shoot frenzy inspiration disabled.",
+          "Melee frenzy inspiration disabled."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2657,7 +2675,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
-      "stats": [],
+      "stats": [
+        "Inspired taming inspiration disabled."
+      ],
       "conflicts": [
         "animallover",
         "catperson",
@@ -2672,7 +2692,9 @@
           "dogperson",
           "menagerist"
         ],
-        "stats": [],
+        "stats": [
+          "Inspired taming inspiration disabled."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2831,7 +2853,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
-      "stats": [],
+      "stats": [
+        "Group meditation focus type allowed."
+      ],
       "conflicts": [
         "anxious"
       ],
@@ -2840,7 +2864,9 @@
         "conflicts": [
           "anxious"
         ],
-        "stats": [],
+        "stats": [
+          "Group meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3235,12 +3261,16 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
-      "stats": [],
+      "stats": [
+        "Natural meditation focus type allowed."
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "Natural meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -4245,222 +4275,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy loves to sleep and always feels like he hasn't had enough rest.",
-      "stats": [
-        "-20% rest rate multiplier"
-      ],
-      "conflicts": [
-        "quicksleeper",
-        "greedycat"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "quicksleeper",
-          "greedycat"
-        ],
-        "stats": [
-          "-20% rest rate multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LazyCat",
-      "name": "lazycat"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy always carries a lot of snacks with he, and he never stops munching on them.",
-      "stats": [
-        "Only mental break \"Binging_Food\" allowed.",
-        "+2 cooking"
-      ],
-      "conflicts": [
-        "gourmand",
-        "lazycat"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "gourmand",
-          "lazycat"
-        ],
-        "stats": [
-          "Only mental break \"Binging_Food\" allowed.",
-          "+2 cooking"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "GreedyCat",
-      "name": "greedycat"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "From some experience, Timmy is very afraid of fire.",
-      "stats": [
-        "-5 cooking"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-5 cooking"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FireFear",
-      "name": "firefear"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "PAWN nameDef has innate resistance to toxic.",
-      "stats": [
-        "+25% toxic environment resistance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+25% toxic environment resistance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "ToxicResistance",
-      "name": "toxicresistance"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has exceptional eyesight.",
-      "stats": [
-        "+2 shooting",
-        "+8.0 shooting accuracy"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+2 shooting",
-          "+8.0 shooting accuracy"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SharpEye",
-      "name": "sharpeye"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy's body has suffered severe wound that has caused irreparable damage.",
-      "stats": [
-        "-0.15 move speed",
-        "-8% pain shock threshold",
-        "x105% incoming damage multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-0.15 move speed",
-          "-8% pain shock threshold",
-          "x105% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "OldWound",
-      "name": "oldwound"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyis a valor supported by kiiros.",
-      "stats": [
-        "+5 melee",
-        "+25.00% social impact",
-        "+0.15 move speed",
-        "+30% pain shock threshold",
-        "-40% mental break threshold",
-        "+10.0 melee dodge chance",
-        "+5.0 melee hit chance",
-        "x50% incoming damage multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 melee",
-          "+25.00% social impact",
-          "+0.15 move speed",
-          "+30% pain shock threshold",
-          "-40% mental break threshold",
-          "+10.0 melee dodge chance",
-          "+5.0 melee hit chance",
-          "x50% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KittyValor",
-      "name": "kittyvalor!"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
       "stats": [
@@ -4507,58 +4321,6 @@
       },
       "defName": "AG_Beauty",
       "name": "repulsive"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy Not willing to spend money. Timmy always haggles as much as he can in trading, and never goes shopping in spare time.",
-      "stats": [
-        "+8.00% trade price improvement"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+8.00% trade price improvement"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Story: Events Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kiiro_ShoppingTendency",
-      "name": "stingy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy likes to buy things and spends money lavishly. Timmy visits stores more often and always spends more.",
-      "stats": [
-        "-8.00% trade price improvement"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-8.00% trade price improvement"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Story: Events Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kiiro_ShoppingTendency",
-      "name": "shopaholic"
     },
     {
       "canAdd": true,
@@ -14173,7 +13935,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
-      "stats": [],
+      "stats": [
+        "Group meditation focus type allowed."
+      ],
       "conflicts": [
         "bloodlust",
         "psychopath"
@@ -14184,7 +13948,9 @@
           "bloodlust",
           "psychopath"
         ],
-        "stats": [],
+        "stats": [
+          "Group meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -14193,6 +13959,274 @@
       },
       "defName": "VRE_Distressed",
       "name": "distressed"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves to sleep and always feels like he hasn't had enough rest.",
+      "stats": [
+        "-20% rest rate multiplier"
+      ],
+      "conflicts": [
+        "quicksleeper",
+        "greedycat"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "quicksleeper",
+          "greedycat"
+        ],
+        "stats": [
+          "-20% rest rate multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "LazyCat",
+      "name": "lazycat"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy always carries a lot of snacks with he, and he never stops munching on them.",
+      "stats": [
+        "Only mental break \"Binging_Food\" allowed.",
+        "+2 cooking"
+      ],
+      "conflicts": [
+        "gourmand",
+        "lazycat"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "gourmand",
+          "lazycat"
+        ],
+        "stats": [
+          "Only mental break \"Binging_Food\" allowed.",
+          "+2 cooking"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "GreedyCat",
+      "name": "greedycat"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "From some experience, Timmy is very afraid of fire.",
+      "stats": [
+        "-5 cooking"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-5 cooking"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "FireFear",
+      "name": "firefear"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "PAWN nameDef has innate resistance to toxic.",
+      "stats": [
+        "+25% toxic environment resistance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% toxic environment resistance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ToxicResistance",
+      "name": "toxicresistance"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has exceptional eyesight.",
+      "stats": [
+        "+2 shooting",
+        "+8.0 shooting accuracy"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2 shooting",
+          "+8.0 shooting accuracy"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SharpEye",
+      "name": "sharpeye"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's body has suffered severe wound that has caused irreparable damage.",
+      "stats": [
+        "-0.15 move speed",
+        "-8% pain shock threshold",
+        "x105% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-0.15 move speed",
+          "-8% pain shock threshold",
+          "x105% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "OldWound",
+      "name": "oldwound"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmyis a valor supported by kiiros.",
+      "stats": [
+        "+5 melee",
+        "+25.00% social impact",
+        "+0.15 move speed",
+        "+30% pain shock threshold",
+        "-40% mental break threshold",
+        "+10.0 melee dodge chance",
+        "+5.0 melee hit chance",
+        "x50% incoming damage multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 melee",
+          "+25.00% social impact",
+          "+0.15 move speed",
+          "+30% pain shock threshold",
+          "-40% mental break threshold",
+          "+10.0 melee dodge chance",
+          "+5.0 melee hit chance",
+          "x50% incoming damage multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Race",
+        "karmaTypeForAdding": null
+      },
+      "defName": "KittyValor",
+      "name": "kittyvalor!"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy Not willing to spend money. Timmy always haggles as much as he can in trading, and never goes shopping in spare time.",
+      "stats": [
+        "+8.00% trade price improvement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+8.00% trade price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Story: Events Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Kiiro_ShoppingTendency",
+      "name": "stingy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy likes to buy things and spends money lavishly. Timmy visits stores more often and always spends more.",
+      "stats": [
+        "-8.00% trade price improvement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-8.00% trade price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Kiiro Story: Events Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Kiiro_ShoppingTendency",
+      "name": "shopaholic"
     }
   ],
   "races": [
@@ -14239,59 +14273,6 @@
       "enabled": false,
       "name": "human",
       "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+45.00 Mass",
-          "+30% Flammability",
-          "+$1800 Market value",
-          "+4.80 Move speed",
-          "+35% Mental break threshold",
-          "+37.0C Max comfortable temperature",
-          "+5.0C Min comfortable temperature",
-          "+98% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+4 Honor value",
-          "+45 Meat amount",
-          "+50 Leather amount",
-          "+100% Global learning factor",
-          "+115% Psychic sensitivity",
-          "+80% Pain shock threshold",
-          "+100% General labor speed",
-          "+100% Drug synthesis speed",
-          "+100% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical surgery success chance",
-          "+80.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Trade price improvement",
-          "+100.00% Social impact",
-          "+120% Global work speed",
-          "+90% Eating speed",
-          "+80% Construction speed",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+80% Smelting speed",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100% Mining yield",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+1.0 Cooking speed",
-          "+100% Rest rate multiplier",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A humanoid species with cat-like ears and cat-tailed limbs, the kiiro race. \n\nAs natives who have lived on this planet for thousands of years, the technology of the kiiros has developed slowly after reaching the medieval level: they always have more things to do than to develop science and technology, such as napping, gossiping, sunbathing and enjoying leisure time. Even when they moved out of their free time to work, they were more than happy to do something related to art. Because of their gentle and non-combative character, their society has always maintained a high degree of harmony and stability throughout their long history, with very few conflicts and disputes, and this has resulted in the fact that although they have the gift dexterous in fighting, they are not good at it. \n\nBut all this began to change when the rough outsiders landed on this planet and got a firm foothold: lack of combat experience and training, technology has not been developed to a great extent, the kiiros appear very powerless in the face of foreign enemy attacks, many villages and towns were attacked and fallen, the survival of the kiiros once fell into a crisis, which forced the kiiros to give up their peaceful life, and set out on a difficult and long road of living. \n\nHowever, the invasion of foreign enemies not only spread the war, but also brought the opportunity of technological development to kiiros. With the exposure to the technology brought by the outsiders, the technological level of the kiiros has exploded in a short period of time through introduction and imitation, and the seeds of the industrial age have quietly sprouted within this ancient and backward race......",
-      "defName": "Kiiro_Race",
-      "enabled": true,
-      "name": "kiiro race",
-      "price": 100
     },
     {
       "data": {
@@ -14867,6 +14848,114 @@
       "enabled": true,
       "name": "Miho",
       "price": 100
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+75.00 Mass",
+          "+50% Flammability",
+          "+$2500 Market value",
+          "+4.00 Move speed",
+          "+35% Mental break threshold",
+          "+20.0C Max comfortable temperature",
+          "+8.0C Min comfortable temperature",
+          "+110% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+80% Pain shock threshold",
+          "+120% Psychic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+100% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+100% Sell price multiplier",
+          "+100.00% Negotiation ability",
+          "+100.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+85% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+100% Research speed",
+          "+130% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+115% Medical tend quality",
+          "+115% Medical surgery success chance",
+          "+100% Mining speed",
+          "+100% Mining yield",
+          "+100% Hunting stealth",
+          "+0% Toxic environment resistance",
+          "+4 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medicaluses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications have led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
+      "defName": "Alien_Moyo",
+      "enabled": true,
+      "name": "Moyo",
+      "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+45.00 Mass",
+          "+30% Flammability",
+          "+$1800 Market value",
+          "+4.80 Move speed",
+          "+35% Mental break threshold",
+          "+37.0C Max comfortable temperature",
+          "+5.0C Min comfortable temperature",
+          "+98% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+4 Honor value",
+          "+45 Meat amount",
+          "+50 Leather amount",
+          "+100% Global learning factor",
+          "+115% Psychic sensitivity",
+          "+80% Pain shock threshold",
+          "+100% General labor speed",
+          "+100% Drug synthesis speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+80.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+120% Global work speed",
+          "+90% Eating speed",
+          "+80% Construction speed",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+80% Smelting speed",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+100% Mining yield",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A humanoid species with cat-like ears and cat-tailed limbs, the kiiro race. \n\nAs natives who have lived on this planet for thousands of years, the technology of the kiiros has developed slowly after reaching the medieval level: they always have more things to do than to develop science and technology, such as napping, gossiping, sunbathing and enjoying leisure time. Even when they moved out of their free time to work, they were more than happy to do something related to art. Because of their gentle and non-combative character, their society has always maintained a high degree of harmony and stability throughout their long history, with very few conflicts and disputes, and this has resulted in the fact that although they have the gift dexterous in fighting, they are not good at it. \n\nBut all this began to change when the rough outsiders landed on this planet and got a firm foothold: lack of combat experience and training, technology has not been developed to a great extent, the kiiros appear very powerless in the face of foreign enemy attacks, many villages and towns were attacked and fallen, the survival of the kiiros once fell into a crisis, which forced the kiiros to give up their peaceful life, and set out on a difficult and long road of living. \n\nHowever, the invasion of foreign enemies not only spread the war, but also brought the opportunity of technological development to kiiros. With the exposure to the technology brought by the outsiders, the technological level of the kiiros has exploded in a short period of time through introduction and imitation, and the seeds of the industrial age have quietly sprouted within this ancient and backward race......",
+      "defName": "Kiiro_Race",
+      "enabled": true,
+      "name": "kiiro race",
+      "price": 3000
     }
   ]
 }
