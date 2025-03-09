@@ -4384,7 +4384,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:swordsman",
@@ -4441,7 +4441,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -4512,7 +4512,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -4569,7 +4569,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -4634,7 +4634,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -4685,7 +4685,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -4750,7 +4750,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -4801,7 +4801,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -4866,7 +4866,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -4917,7 +4917,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -4984,7 +4984,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -5037,7 +5037,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -5101,7 +5101,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -5151,7 +5151,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -5218,7 +5218,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -5271,7 +5271,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -5334,7 +5334,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -5383,7 +5383,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -5446,7 +5446,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -5495,7 +5495,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -5558,7 +5558,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -5607,7 +5607,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -5677,7 +5677,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -5733,7 +5733,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -5800,7 +5800,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -5853,7 +5853,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -5918,7 +5918,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -5969,7 +5969,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -6037,7 +6037,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -6091,7 +6091,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -6154,7 +6154,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -6203,7 +6203,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -6274,7 +6274,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -6331,7 +6331,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -6404,7 +6404,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -6463,7 +6463,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -6532,7 +6532,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -6587,7 +6587,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -6657,7 +6657,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -6713,7 +6713,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -6786,7 +6786,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -6845,7 +6845,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -6912,7 +6912,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -6965,7 +6965,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -7037,7 +7037,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -7095,7 +7095,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -7168,7 +7168,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -7227,7 +7227,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -7302,7 +7302,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -7363,7 +7363,7 @@
           "x90% rest need decay",
           "x90% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -7435,7 +7435,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -7493,7 +7493,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -7563,7 +7563,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -7619,7 +7619,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -7690,7 +7690,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -7747,7 +7747,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -7816,7 +7816,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -7871,7 +7871,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -7948,7 +7948,7 @@
         "talent:hero",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -8011,7 +8011,7 @@
           "x85% rest need decay",
           "x85% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -8084,7 +8084,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -8143,7 +8143,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -8210,7 +8210,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -8263,7 +8263,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -8337,7 +8337,7 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -8397,7 +8397,7 @@
           "x85% rest need decay",
           "x85% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -8472,7 +8472,7 @@
         "talent:hero",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -8533,7 +8533,7 @@
           "x90% rest need decay",
           "x90% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -8595,7 +8595,7 @@
         "talent:hero",
         "talent:herald"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "talent:bowman",
@@ -8643,7 +8643,7 @@
           "x95% rest need decay",
           "x95% recreation need decay"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits: Medieval Talents",
@@ -8661,11 +8661,11 @@
       "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Factions Expanded - Pirates",
@@ -13906,7 +13906,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when him playful intentions are misinterpreted.",
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when his playful intentions are misinterpreted.",
       "stats": [],
       "conflicts": [
         "abrasive",
@@ -14667,6 +14667,10 @@
           "+$3000 Market value",
           "+100 Carrying capacity",
           "+100% Global learning factor",
+          "+90% Construct success chance",
+          "+90% Mining yield",
+          "+90% Plant harvest yield",
+          "+90% Drug crop harvest yield",
           "+150.00% Tame animal chance",
           "+120.00% Train animal chance",
           "+0 Foraged food amount",
@@ -14902,7 +14906,7 @@
       "defName": "Alien_Moyo",
       "enabled": true,
       "name": "Moyo",
-      "price": 4167
+      "price": 100
     },
     {
       "data": {
@@ -14955,7 +14959,7 @@
       "defName": "Kiiro_Race",
       "enabled": true,
       "name": "kiiro race",
-      "price": 3000
+      "price": 100
     }
   ]
 }
