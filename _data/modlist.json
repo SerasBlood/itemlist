@@ -110,8 +110,8 @@
   {
     "author": "Ancot",
     "name": "Ancot Library",
-    "steamId": null,
-    "version": null
+    "steamId": "2988801276",
+    "version": "1.0.0.0"
   },
   {
     "author": "Fluffy",
@@ -138,8 +138,8 @@
     "version": "1.2.0.0"
   },
   {
-    "author": "Yanzihko",
-    "name": "Archotech Expanded",
+    "author": "Yanzihko / ChillGreenBean (Patcher)",
+    "name": "Archotech Expanded Patched V1.2.5",
     "steamId": null,
     "version": null
   },
@@ -1071,7 +1071,7 @@
     "author": "Mlie",
     "name": "Use This Instead",
     "steamId": "3396308787",
-    "version": "1.5.56"
+    "version": "1.5.60"
   },
   {
     "author": "Fuu Chan",

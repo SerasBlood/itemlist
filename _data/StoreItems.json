@@ -39067,12 +39067,6 @@
       "price": 9
     },
     {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3425
-    },
-    {
       "abr": "bondingcore",
       "category": "Items",
       "defname": "PersonaBondForge_ThingDef_BondingCore",
@@ -39695,7 +39689,127 @@
       "category": "Misc",
       "defname": "AM_MaterialElevatorD",
       "price": 3358
+    },
+    {
+      "abr": "apollyonarchoblade",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_BeanzArchotechBlade",
+      "price": 833333
+    },
+    {
+      "abr": "apollyonarchotecharm",
+      "category": "Archotech",
+      "defname": "BeanzArchotechArm",
+      "price": 53467
+    },
+    {
+      "abr": "apollyonarchotechear",
+      "category": "Archotech",
+      "defname": "BeanzArchotechEar",
+      "price": 5300
+    },
+    {
+      "abr": "apollyonarchotecheye",
+      "category": "Archotech",
+      "defname": "BeanzArchotechEye",
+      "price": 49300
+    },
+    {
+      "abr": "apollyonarchotechheart",
+      "category": "Archotech",
+      "defname": "BeanzArchotechHeart",
+      "price": 15300
+    },
+    {
+      "abr": "apollyonarchotechkidney",
+      "category": "Archotech",
+      "defname": "BeanzArchotechKidney",
+      "price": 10300
+    },
+    {
+      "abr": "apollyonarchotechleg",
+      "category": "Archotech",
+      "defname": "BeanzArchotechLeg",
+      "price": 70967
+    },
+    {
+      "abr": "apollyonarchotechliver",
+      "category": "Archotech",
+      "defname": "BeanzArchotechLiver",
+      "price": 15300
+    },
+    {
+      "abr": "apollyonarchotechlung",
+      "category": "Archotech",
+      "defname": "BeanzArchotechLung",
+      "price": 10300
+    },
+    {
+      "abr": "apollyonarchotechmedicine",
+      "category": "Medicine",
+      "defname": "ApollyonMedicineArchotech",
+      "price": 4167
+    },
+    {
+      "abr": "apollyonarchotechnexus",
+      "category": "Archotech",
+      "defname": "BeanzArchotechNexus",
+      "price": 752467
+    },
+    {
+      "abr": "apollyonarchotechnose",
+      "category": "Archotech",
+      "defname": "BeanzArchotechNose",
+      "price": 5300
+    },
+    {
+      "abr": "apollyonarchotechpelvis",
+      "category": "Archotech",
+      "defname": "BeanzArchotechPelvis",
+      "price": 10300
+    },
+    {
+      "abr": "apollyonarchotechrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_BeanzArchotechRifle",
+      "price": 300000
+    },
+    {
+      "abr": "apollyonarchotechspine",
+      "category": "Archotech",
+      "defname": "BeanzArchotechSpine",
+      "price": 15300
+    },
+    {
+      "abr": "apollyonarchotechstomach",
+      "category": "Archotech",
+      "defname": "BeanzArchotechStomach",
+      "price": 10300
+    },
+    {
+      "abr": "apollyonarchotechsupressionrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_BeanzArchotechRifleBlunt",
+      "price": 300000
+    },
+    {
+      "abr": "apollyon-archo-analyzer",
+      "category": "Misc",
+      "defname": "ApollyonArchoAnalyzer",
+      "price": 542267
+    },
+    {
+      "abr": "yuranbaeg-yeong",
+      "category": "Yuran Apparel",
+      "defname": "YR_AP_SecretYukataA",
+      "price": 203
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 6616
+  "total": 6635
 }
