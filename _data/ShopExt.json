@@ -3801,110 +3801,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a successful product of an ancient experimental project, he almost entirely specialized for combat. he is extremely hard to defeat.",
-      "stats": [
-        "x60% incoming damage multiplier",
-        "x75% aiming time",
-        "x105% shooting accuracy",
-        "x130% immunity gain speed",
-        "x0% psychic sensitivity"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x60% incoming damage multiplier",
-          "x75% aiming time",
-          "x105% shooting accuracy",
-          "x130% immunity gain speed",
-          "x0% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ancient urban ruins",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AM_Elite",
-      "name": "successfulproducts"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a fashion guy who is skilled at shooting in a slide shovel, he can use gun to blast everything he sees.",
-      "stats": [
-        "x70% incoming damage multiplier",
-        "x1% aiming time",
-        "x155% shooting accuracy",
-        "x0% psychic sensitivity"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x70% incoming damage multiplier",
-          "x1% aiming time",
-          "x155% shooting accuracy",
-          "x0% psychic sensitivity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ancient urban ruins",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AM_MallGuards",
-      "name": "fashionguy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy was implanted with an excessive amount of parasites, which completely destroyed his sanity but greatly increased his strength.",
-      "stats": [
-        "+50.0 melee dodge chance",
-        "-10.5 melee hit chance",
-        "+300% melee damage factor",
-        "-50.0C min comfortable temperature",
-        "x45% incoming damage multiplier",
-        "x0% psychic sensitivity",
-        "x0% stagger time multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+50.0 melee dodge chance",
-          "-10.5 melee hit chance",
-          "+300% melee damage factor",
-          "-50.0C min comfortable temperature",
-          "x45% incoming damage multiplier",
-          "x0% psychic sensitivity",
-          "x0% stagger time multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ancient urban ruins",
-        "karmaTypeForAdding": null
-      },
-      "defName": "AM_Slaughter",
-      "name": "parasiticfailedproduct"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 1,
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
@@ -8739,142 +8635,6 @@
       },
       "defName": "VME_Elder",
       "name": "elder"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is automata, automata auto memory system logging all things she saw. his skills will never decay.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Paniel the Automata[1.5]",
-        "karmaTypeForAdding": null
-      },
-      "defName": "PN_PerfectMemory",
-      "name": "automemories"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy's voice has a particularly Beautiful. This predisposes others to like him.",
-      "stats": [],
-      "conflicts": [
-        "annoyingvoice"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "annoyingvoice"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Yuran race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "YR_BeautifulVoice",
-      "name": "beautifulvoice"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
     },
     {
       "canAdd": true,
@@ -13965,242 +13725,44 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy loves to sleep and always feels like he hasn't had enough rest.",
-      "stats": [
-        "-20% rest rate multiplier"
-      ],
-      "conflicts": [
-        "quicksleeper",
-        "greedycat"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "quicksleeper",
-          "greedycat"
-        ],
-        "stats": [
-          "-20% rest rate multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "LazyCat",
-      "name": "lazycat"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy always carries a lot of snacks with he, and he never stops munching on them.",
-      "stats": [
-        "Only mental break \"Binging_Food\" allowed.",
-        "+2 cooking"
-      ],
-      "conflicts": [
-        "gourmand",
-        "lazycat"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "gourmand",
-          "lazycat"
-        ],
-        "stats": [
-          "Only mental break \"Binging_Food\" allowed.",
-          "+2 cooking"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "GreedyCat",
-      "name": "greedycat"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "From some experience, Timmy is very afraid of fire.",
-      "stats": [
-        "-5 cooking"
-      ],
+      "degree": 1,
+      "description": "Timmy has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
+      "stats": [],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [
-          "-5 cooking"
-        ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "FireFear",
-      "name": "firefear"
+      "defName": "PJ_ForceSensitive",
+      "name": "forcesensitive"
     },
     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0,
-      "description": "PAWN nameDef has innate resistance to toxic.",
-      "stats": [
-        "+25% toxic environment resistance"
-      ],
+      "degree": 2,
+      "description": "Timmy has begun to control the force, but requires further training and guidance.\n\n(Star Wars - The Force)",
+      "stats": [],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [
-          "+25% toxic environment resistance"
-        ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "ToxicResistance",
-      "name": "toxicresistance"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has exceptional eyesight.",
-      "stats": [
-        "+2 shooting",
-        "+8.0 shooting accuracy"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+2 shooting",
-          "+8.0 shooting accuracy"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "SharpEye",
-      "name": "sharpeye"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy's body has suffered severe wound that has caused irreparable damage.",
-      "stats": [
-        "-0.15 move speed",
-        "-8% pain shock threshold",
-        "x105% incoming damage multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-0.15 move speed",
-          "-8% pain shock threshold",
-          "x105% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "OldWound",
-      "name": "oldwound"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmyis a valor supported by kiiros.",
-      "stats": [
-        "+5 melee",
-        "+25.00% social impact",
-        "+0.15 move speed",
-        "+30% pain shock threshold",
-        "-40% mental break threshold",
-        "+10.0 melee dodge chance",
-        "+5.0 melee hit chance",
-        "x50% incoming damage multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+5 melee",
-          "+25.00% social impact",
-          "+0.15 move speed",
-          "+30% pain shock threshold",
-          "-40% mental break threshold",
-          "+10.0 melee dodge chance",
-          "+5.0 melee hit chance",
-          "x50% incoming damage multiplier"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Race",
-        "karmaTypeForAdding": null
-      },
-      "defName": "KittyValor",
-      "name": "kittyvalor!"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy Not willing to spend money. Timmy always haggles as much as he can in trading, and never goes shopping in spare time.",
-      "stats": [
-        "+8.00% trade price improvement"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+8.00% trade price improvement"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kiiro Story: Events Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Kiiro_ShoppingTendency",
-      "name": "stingy"
+      "defName": "PJ_ForceSensitive",
+      "name": "forceapprentice"
     },
     {
       "canAdd": true,
@@ -14208,25 +13770,527 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy likes to buy things and spends money lavishly. Timmy visits stores more often and always spends more.",
-      "stats": [
-        "-8.00% trade price improvement"
+      "description": "Timmy Has begun the journey to becoming a Jedi Knight.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
       ],
-      "conflicts": [],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
-        "stats": [
-          "-8.00% trade price improvement"
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
         ],
+        "stats": [],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Kiiro Story: Events Expanded",
+        "mod": "Star Wars - The Force",
         "karmaTypeForAdding": null
       },
-      "defName": "Kiiro_ShoppingTendency",
-      "name": "shopaholic"
+      "defName": "PJ_JediTrait",
+      "name": "jedi"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy has attained the rank of Knight of the Jedi Order.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jediknight"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "Timmy is among the most respected of the Jedi Order, a true Master.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jedimaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "Timmy is ranked among the elite Jedi, those who are fit to serve on the Council.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jediconsular"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy Has begun the journey to the Dark side of the force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sith"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is devoted to the dark side, spreading terror and flaring passions in their wake.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithinquisitor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "Timmy is among the most feared in the galaxy, the Dark Lords of the Sith.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithlord"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "Timmy is attuned to the dark side of the force, able to tap near-limitless power.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithmaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is exploring the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graypadawan"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is devoted to maintaining the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "grayjedi"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3,
+      "description": "Timmy is a master Jedi, devoted to the 'living Force'.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graymaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4,
+      "description": "Timmy is attuned to the Living Force. he sees HIMself as an extension of it's will.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graysage"
     }
   ],
   "races": [
@@ -14329,239 +14393,7 @@
       "defName": "Milira_Race",
       "enabled": true,
       "name": "Milira",
-      "price": 100
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+70.00 Mass",
-          "+70% Flammability",
-          "+$2000 Market value",
-          "+4.60 Move speed",
-          "+0 Honor value",
-          "+38.0C Max comfortable temperature",
-          "+4.0C Min comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+120% Immunity gain speed",
-          "+100 Carrying capacity",
-          "+99% Pain shock threshold",
-          "+80% Toxic resistance",
-          "+75% Toxic environment resistance",
-          "+60% Psychic sensitivity",
-          "+0% Global learning factor",
-          "+0.00% Food poison chance",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+1.0 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Heat",
-          "+80.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Social impact",
-          "+30% Mental break threshold",
-          "+100% Global work speed",
-          "+100% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical operation speed",
-          "+100% Medical surgery success chance",
-          "+100% Construction speed",
-          "+10% Research speed",
-          "+0% Fertility"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "This pawn is automaton designed by PnL Industry.",
-      "defName": "Paniel_Race",
-      "enabled": true,
-      "name": "Paniel",
-      "price": 100
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+52.00 Mass",
-          "+150% Flammability",
-          "+$2800 Market value",
-          "+10 Honor value",
-          "+4.75 Move speed",
-          "+25.0C Max comfortable temperature",
-          "+10.0C Min comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+5 Meat amount",
-          "+5 Leather amount",
-          "+80% Pain shock threshold",
-          "+135% Psychic sensitivity",
-          "+25% Mental break threshold",
-          "+0% Toxic resistance",
-          "+0% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+125.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+150.00% Social impact",
-          "+135.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+125% Plant work speed",
-          "+100% Global learning factor",
-          "+100% Research speed",
-          "+120% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+50% Mining speed",
-          "+100% Mining yield",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+220.00% Conversion power"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Miko serves and manages the village as a kind of duty for Yuran belonging to a family of special lineage.",
-      "defName": "Yuran_Race_Miko",
-      "enabled": false,
-      "name": "Yuran Miko",
-      "price": 4667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+150% Flammability",
-          "+$1200 Market value",
-          "+2 Honor value",
-          "+4.70 Move speed",
-          "+25.0C Max comfortable temperature",
-          "-5.0C Min comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+35 Meat amount",
-          "+45 Leather amount",
-          "+75% Pain shock threshold",
-          "+100% Psychic sensitivity",
-          "+40% Mental break threshold",
-          "+0% Toxic resistance",
-          "+0% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+115.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+125.00% Social impact",
-          "+115.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.3 Cooking speed",
-          "+125% Plant work speed",
-          "+100% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+90% Mining speed",
-          "+110% Mining yield",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Yuran is an Ain race with the appearance of a rabbit, and its origin is not known precisely.\nAs a minority race with a small population, there are genetic problems and males do not exist. It continues.\nCentering on the Miko with special abilities that are passed on through blood lineage, they live in a small village-sized village and have faith in the large cherry tree in their hometown.",
-      "defName": "Yuran_Race",
-      "enabled": true,
-      "name": "Yuran",
-      "price": 100
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+48.00 Mass",
-          "+0% Flammability",
-          "+$2800 Market value",
-          "+20 Honor value",
-          "+4.75 Move speed",
-          "+25.0C Max comfortable temperature",
-          "+10.0C Min comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+5 Meat amount",
-          "+5 Leather amount",
-          "+90% Pain shock threshold",
-          "+185% Psychic sensitivity",
-          "+25% Mental break threshold",
-          "+0% Toxic resistance",
-          "+0% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+175.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+250.00% Social impact",
-          "+145.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+125% Plant work speed",
-          "+120% Global learning factor",
-          "+100% Research speed",
-          "+120% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+50% Mining speed",
-          "+100% Mining yield",
-          "+20.0% Armor - Blunt",
-          "+20.0% Armor - Sharp",
-          "+400.00% Conversion power",
-          "+4.0 Beauty"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "She is Miko who is fluent in curses.\nAccording to the record, she even overcame death.",
-      "defName": "Yuran_Race_Miko_BlackSnake",
-      "enabled": false,
-      "name": "Yuran BlackSnake",
-      "price": 4667
+      "price": 1
     },
     {
       "data": {
@@ -14602,7 +14434,7 @@
       "defName": "Axolotl",
       "enabled": true,
       "name": "MoeLotl",
-      "price": 100
+      "price": 1
     },
     {
       "data": {
@@ -14656,7 +14488,7 @@
       "defName": "MeowKurin",
       "enabled": true,
       "name": "Kurin",
-      "price": 100
+      "price": 1
     },
     {
       "data": {
@@ -14683,59 +14515,7 @@
       "defName": "Alien_Nyaron",
       "enabled": true,
       "name": "Nyaron",
-      "price": 100
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+95.00 Mass",
-          "+100% Flammability",
-          "+0% Fertility",
-          "+$3500 Market value",
-          "+6.00 Move speed",
-          "+30% Mental break threshold",
-          "+40.0C Max comfortable temperature",
-          "+24.0C Min comfortable temperature",
-          "+100% Immunity gain speed",
-          "+90 Carrying capacity",
-          "+80 Meat amount",
-          "+65 Leather amount",
-          "+80% Pain shock threshold",
-          "+100% Psychic sensitivity",
-          "+70% Eating speed",
-          "+2.0 Melee dodge chance",
-          "+1.8 Melee hit chance",
-          "+110% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+150.00% Negotiation ability",
-          "+80% Sell price multiplier",
-          "+130.00% Social impact",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+130% General labor speed",
-          "+300% Butchery efficiency",
-          "+200% Butchery speed",
-          "+0.00% Food poison chance",
-          "+0.6 Cooking speed",
-          "+120% Rest rate multiplier",
-          "+40% Plant work speed",
-          "+80% Research speed",
-          "+100% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+120% Mining speed",
-          "+90% Mining yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Rakkles are reptilian humanoids originally found on a remote planet in the Rim. After their discovery, human colonies rounded them up and genetically altered them to have near-human intelligence, but also decreased aggression and appearances better suited to human tastes. They were also modified to give birth to females more often than males, creating a biological need for species interbreeding.\n\nThe newly created Rakkle species were managed by a company known as The Cradle beyond the reaches of the galaxy, while wild Rakkle were hunted and killed to protect the company's interest. Future generations within the facilities were conditioned and raised as slaves and livestock.\n\n After a series of escapes and revolts on planet after planet, a coalition of freed Rakkle began colonies of their own, resisting capture and invasion to create a new world where Rakkle can live outside the yoke of slavery. Despite The Cradle's best efforts, these settlements continue to grow in size and number.",
-      "defName": "Rakkle",
-      "enabled": true,
-      "name": "Rakkle",
-      "price": 100
+      "price": 1
     },
     {
       "data": {
@@ -14772,7 +14552,7 @@
       "defName": "Ratkin",
       "enabled": true,
       "name": "Ratkin",
-      "price": 100
+      "price": 1
     },
     {
       "data": {
@@ -14851,7 +14631,7 @@
       "defName": "Alien_Miho",
       "enabled": true,
       "name": "Miho",
-      "price": 100
+      "price": 1
     },
     {
       "data": {
@@ -14859,107 +14639,87 @@
         "stats": [
           "+75.00 Mass",
           "+50% Flammability",
-          "+$2500 Market value",
-          "+4.00 Move speed",
-          "+35% Mental break threshold",
-          "+20.0C Max comfortable temperature",
-          "+8.0C Min comfortable temperature",
-          "+110% Immunity gain speed",
-          "+75 Carrying capacity",
+          "+$2800 Market value",
+          "+4 Honor value",
+          "+4.60 Move speed",
+          "+26.0C Max comfortable temperature",
+          "+16.0C Min comfortable temperature",
           "+80 Meat amount",
+          "+50 Leather amount",
+          "+75 Carrying capacity",
+          "+100% Immunity gain speed",
+          "+100% Psychic sensitivity",
+          "+0.8 Melee dodge chance",
+          "+100% Global work speed",
+          "+100% Drug synthesis speed",
+          "+100% Research speed",
+          "+100% Hacking speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+112% Aiming time",
+          "+1.3 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Inhabitants of the 'Lighthouse', a city submerged beneath the waves, have emerged to pursue their own interests. A substance known as Deepblue flows in their veins, serving a variety of pharmaceutical and medical purposes, not to mention producing drugs.",
+      "defName": "Alien_Moyo",
+      "enabled": true,
+      "name": "Moyo",
+      "price": 1
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+38% Mental break threshold",
+          "+26.0C Max comfortable temperature",
+          "+16.0C Min comfortable temperature",
+          "+0% Toxic resistance",
+          "+0% Toxic environment resistance",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+60 Meat amount",
           "+50 Leather amount",
           "+80% Pain shock threshold",
           "+120% Psychic sensitivity",
-          "+0.8 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+100% Sell price multiplier",
+          "+0.9 Melee dodge chance",
+          "+0.8 Melee hit chance",
+          "+80% Aiming time",
+          "+1.2 Shooting accuracy",
           "+100.00% Negotiation ability",
-          "+100.00% Trade price improvement",
+          "+100% Sell price multiplier",
           "+100.00% Social impact",
           "+100% Mechanoid shredding efficiency",
           "+100% Mechanoid shredding speed",
           "+100% Smelting speed",
-          "+85% General labor speed",
+          "+100% General labor speed",
           "+100% Butchery efficiency",
           "+100% Butchery speed",
           "+100.00% Food poison chance",
           "+1.0 Cooking speed",
           "+100% Rest rate multiplier",
           "+100% Plant work speed",
-          "+100% Research speed",
-          "+130% Drug synthesis speed",
-          "+120% Medical tend speed",
-          "+115% Medical tend quality",
-          "+115% Medical surgery success chance",
-          "+100% Mining speed",
-          "+100% Mining yield",
-          "+100% Hunting stealth",
-          "+0% Toxic environment resistance",
-          "+4 Honor value"
+          "+120% Research speed",
+          "+110% Medical tend quality",
+          "+120% Drug synthesis speed",
+          "+120% Medical surgery success chance",
+          "+80% Mining speed",
+          "+100% Mining yield"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medicaluses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications have led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
-      "defName": "Alien_Moyo",
+      "description": "토끼의 유전자를 가진, 전쟁과 건설에 능숙한 달 도시의 주민들입니다.\n\n거의 번화계 수준에 다다른 기술로 여러 우주로 이주해 다니며, 플라네타륨이 분포하는 행성을 찾아 그 달에 도시를 건설하고 있습니다. \n\n먼 거리로 인해 이전 우주의 래비들과는 단절됩니다.",
+      "defName": "Rabbie",
       "enabled": true,
-      "name": "Moyo",
-      "price": 100
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+45.00 Mass",
-          "+30% Flammability",
-          "+$1800 Market value",
-          "+4.80 Move speed",
-          "+35% Mental break threshold",
-          "+37.0C Max comfortable temperature",
-          "+5.0C Min comfortable temperature",
-          "+98% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+4 Honor value",
-          "+45 Meat amount",
-          "+50 Leather amount",
-          "+100% Global learning factor",
-          "+115% Psychic sensitivity",
-          "+80% Pain shock threshold",
-          "+100% General labor speed",
-          "+100% Drug synthesis speed",
-          "+100% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical surgery success chance",
-          "+80.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Trade price improvement",
-          "+100.00% Social impact",
-          "+120% Global work speed",
-          "+90% Eating speed",
-          "+80% Construction speed",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+80% Smelting speed",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100% Mining yield",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+1.0 Cooking speed",
-          "+100% Rest rate multiplier",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A humanoid species with cat-like ears and cat-tailed limbs, the kiiro race. \n\nAs natives who have lived on this planet for thousands of years, the technology of the kiiros has developed slowly after reaching the medieval level: they always have more things to do than to develop science and technology, such as napping, gossiping, sunbathing and enjoying leisure time. Even when they moved out of their free time to work, they were more than happy to do something related to art. Because of their gentle and non-combative character, their society has always maintained a high degree of harmony and stability throughout their long history, with very few conflicts and disputes, and this has resulted in the fact that although they have the gift dexterous in fighting, they are not good at it. \n\nBut all this began to change when the rough outsiders landed on this planet and got a firm foothold: lack of combat experience and training, technology has not been developed to a great extent, the kiiros appear very powerless in the face of foreign enemy attacks, many villages and towns were attacked and fallen, the survival of the kiiros once fell into a crisis, which forced the kiiros to give up their peaceful life, and set out on a difficult and long road of living. \n\nHowever, the invasion of foreign enemies not only spread the war, but also brought the opportunity of technological development to kiiros. With the exposure to the technology brought by the outsiders, the technological level of the kiiros has exploded in a short period of time through introduction and imitation, and the seeds of the industrial age have quietly sprouted within this ancient and backward race......",
-      "defName": "Kiiro_Race",
-      "enabled": true,
-      "name": "kiiro race",
-      "price": 100
+      "name": "Rabbie",
+      "price": 1
     }
   ]
 }

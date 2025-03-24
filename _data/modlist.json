@@ -33,7 +33,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.4"
+    "version": "11.0.5"
   },
   {
     "author": "spoonshortage",
@@ -168,12 +168,6 @@
     "version": null
   },
   {
-    "author": "kaitorisenkou",
-    "name": "BallGames",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sam",
     "name": "Basic Double Doors",
     "steamId": null,
@@ -288,6 +282,18 @@
     "version": "1.5.10.0"
   },
   {
+    "author": "ferny",
+    "name": "Childhood Category",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9113.26296"
+  },
+  {
     "author": "PeteTimesSix",
     "name": "Compact Hediffs",
     "steamId": "2031734067",
@@ -358,12 +364,6 @@
     "name": "DragSelect",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
   },
   {
     "author": "Dubwise",
@@ -450,24 +450,6 @@
     "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
   },
   {
-    "author": "themoistestwhale",
-    "name": "GiTS Cyberbrains",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "themoistestwhale",
-    "name": "GiTS Cybernetic Equipment",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "themoistestwhale",
-    "name": "GiTS Seburo Advanced Weapon Systems",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo, Owlchemist and dav9670",
     "name": "Giddy-Up 2 Forked",
     "steamId": "3246108162",
@@ -510,12 +492,6 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": "753498552",
-    "version": "1.5.0.8"
-  },
-  {
     "author": "Netrve",
     "name": "Hunters Use Melee! (Continued)",
     "steamId": "2900108163",
@@ -544,6 +520,12 @@
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
     "version": "3.1.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.5.0.0"
   },
   {
     "author": "Kikohi and Sarg",
@@ -798,12 +780,6 @@
     "version": "1.0.0+791c4fb5e6513cd4aa37656ff626bc18297fcd95"
   },
   {
-    "author": "Botch_Job",
-    "name": "Possessed Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "Prisoners Dont Have Keys",
     "steamId": "2595360307",
@@ -822,12 +798,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sandy",
-    "name": "RPG Style Inventory Revamped",
-    "steamId": "2478833213",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "FLASHPOINT55",
     "name": "RPG Style Level Up Mod",
     "steamId": "1995668415",
@@ -838,6 +808,12 @@
     "name": "RT Solar Flare Shield",
     "steamId": "728315620",
     "version": "1.8.0.0"
+  },
+  {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "AUTOMATIC",
@@ -886,6 +862,12 @@
     "name": "RimHUD",
     "steamId": "1508850027",
     "version": "1.15.3.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "RimQuest (Continued)",
+    "steamId": "2263331727",
+    "version": "1.5.5"
   },
   {
     "author": "Sierra",
@@ -1068,12 +1050,6 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Use This Instead",
-    "steamId": "3396308787",
-    "version": "1.5.60"
-  },
-  {
     "author": "Fuu Chan",
     "name": "Useful Terror",
     "steamId": "2636462610",
@@ -1102,12 +1078,6 @@
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Seanggag",
-    "name": "Vanilla Face Race More",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "pureMJ",
@@ -1321,12 +1291,6 @@
   },
   {
     "author": "Sarg Bjornson",
-    "name": "Alpha Books",
-    "steamId": "3403180654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson",
     "name": "Alpha Mythology",
     "steamId": "1821617793",
     "version": "1.0.0.0"
@@ -1386,12 +1350,6 @@
     "version": "0.5.4+2f35b903a76910a7a7acfbf2556a601d6899e882"
   },
   {
-    "author": "avilmask",
-    "name": "Common Sense",
-    "steamId": "1561769193",
-    "version": "1.0.9113.26296"
-  },
-  {
     "author": "Onyxae",
     "name": "Dragons Descent",
     "steamId": "2026992161",
@@ -1401,12 +1359,6 @@
     "author": "Feaurie",
     "name": "Greyscythe Cybergenetics",
     "steamId": "3250708754",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Adamas",
-    "name": "Hospitality: Spa",
-    "steamId": "2971831654",
     "version": "1.0.0.0"
   },
   {
@@ -1452,10 +1404,16 @@
     "version": null
   },
   {
-    "author": "Jecrell",
-    "name": "RimQuest (Continued)",
-    "steamId": "2263331727",
-    "version": "1.5.5"
+    "author": "Jecrell and Xen",
+    "name": "Star Wars - Fully Functional Lightsabers",
+    "steamId": "918200645",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - The Force",
+    "steamId": "918226861",
+    "version": "0.0.0.0"
   },
   {
     "author": "nry",
@@ -1776,12 +1734,6 @@
     "version": null
   },
   {
-    "author": "ferny",
-    "name": "Bedroom Category",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "RedMattis",
     "name": "Big and Small - Genes & More",
     "steamId": null,
@@ -1812,6 +1764,12 @@
     "version": null
   },
   {
+    "author": "ferny",
+    "name": "Fuck Ext. Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "prkr and tinywhitecat",
     "name": "Gene Tools - Forked",
     "steamId": "3047454700",
@@ -1822,12 +1780,6 @@
     "name": "Greyscythe Bionics Catalogue",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Ancot",
-    "name": "Kiiro Race",
-    "steamId": "2988200143",
-    "version": "1.0.0.0"
   },
   {
     "author": "EoralMilk",
@@ -1864,6 +1816,12 @@
     "name": "MoeLotl Race",
     "steamId": "3292351432",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo2.0-Blood stained business_Beta",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Gloomylynx Nukafrog",
@@ -2016,12 +1974,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "MO",
-    "name": "Ancient urban ruins",
-    "steamId": "3316062206",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "RedMattis",
     "name": "Big and Small - Heaven and Hell",
     "steamId": null,
@@ -2044,18 +1996,6 @@
     "name": "Everybody Gets One",
     "steamId": "1687566130",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Ancot",
-    "name": "Kiiro Race Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ancot",
-    "name": "Kiiro Race Gene Patch",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "ferny",
@@ -2088,26 +2028,14 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "ferny",
+    "name": "Move Stuff into Adaptive Storage Category",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "塔洛斯",
     "name": "Nyaron Facial Animation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Demi, 어리연, Nemonian and gguake",
-    "name": "Paniel the Automata[1.5]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "sunny",
-    "name": "Rakkle 1.5 (unofficial update)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ailk97",
-    "name": "Rakkle Gene (BioTech)",
     "steamId": null,
     "version": null
   },
@@ -2142,18 +2070,6 @@
     "version": null
   },
   {
-    "author": "Roo",
-    "name": "Yuran race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nemonian.MY",
-    "name": "[1.5] Moyo - from the depth",
-    "steamId": "3240244292",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "CaptoLamia",
     "name": "[CAP]Biotech Nyaron HAR Addition",
     "steamId": null,
@@ -2172,20 +2088,20 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Ancot",
-    "name": "Kiiro Story: Events Expanded",
-    "steamId": "3036480100",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "OdysseyLotus",
-    "name": "Male Yuran",
+    "author": "ferny",
+    "name": "Automation Category",
     "steamId": null,
     "version": null
   },
   {
-    "author": "塔洛斯",
-    "name": "Paniel Facial Animation",
+    "author": "ferny",
+    "name": "Biotech Category Re-examined",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "Outreach Category",
     "steamId": null,
     "version": null
   },
@@ -2226,16 +2142,22 @@
     "version": null
   },
   {
+    "author": "ferny",
+    "name": "Bedroom Category",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "Culture Category",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "turkler",
     "name": "Mechanitor Encounters",
     "steamId": "3417287863",
     "version": "0.1.0.0"
-  },
-  {
-    "author": "alite",
-    "name": "Superhero Genes - Base",
-    "steamId": "2980061828",
-    "version": "1.0.9197.33424"
   },
   {
     "author": "Warachia",
