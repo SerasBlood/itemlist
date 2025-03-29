@@ -13784,7 +13784,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -13799,7 +13799,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -13828,7 +13828,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -13843,7 +13843,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -13872,7 +13872,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -13887,7 +13887,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -13916,7 +13916,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -13931,7 +13931,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -13960,7 +13960,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "jedi",
@@ -13975,7 +13975,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -14004,7 +14004,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "jedi",
@@ -14019,7 +14019,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -14048,7 +14048,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "jedi",
@@ -14063,7 +14063,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -14092,7 +14092,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "jedi",
@@ -14107,7 +14107,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -14180,7 +14180,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "jedi",
@@ -14195,7 +14195,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
