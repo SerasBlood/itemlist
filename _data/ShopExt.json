@@ -2200,62 +2200,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
-      "stats": [
-        "-20% mental break threshold"
-      ],
-      "conflicts": [
-        "abrasive",
-        "kind",
-        "psychopath"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "abrasive",
-          "kind",
-          "psychopath"
-        ],
-        "stats": [
-          "-20% mental break threshold"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Framework",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BS_Gentle",
-      "name": "gentle"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is able to use oversized weapons.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Framework",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BS_Giant",
-      "name": "giant"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "A strict principle of nonviolence which applies to all living things.",
       "stats": [],
       "conflicts": [],
@@ -3861,310 +3805,6 @@
       },
       "defName": "VPE_Thrall",
       "name": "thrall"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
-      "stats": [
-        "x130% body size multipler",
-        "x110% construction speed",
-        "x90% move speed",
-        "x80% lifespan factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x130% body size multipler",
-          "x110% construction speed",
-          "x90% move speed",
-          "x80% lifespan factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Genes & More",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Gigantism",
-      "name": "gigantism"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is both taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.",
-      "stats": [
-        "x115% body size multipler",
-        "x105% construction speed",
-        "x98% move speed",
-        "x95% lifespan factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x115% body size multipler",
-          "x105% construction speed",
-          "x98% move speed",
-          "x95% lifespan factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Genes & More",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Large",
-      "name": "large"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a bit smaller than usual for their kind.",
-      "stats": [
-        "x80% body size multipler",
-        "x95% mining speed",
-        "x95% construction speed",
-        "x95% deep drilling speed",
-        "x93% move speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x80% body size multipler",
-          "x95% mining speed",
-          "x95% construction speed",
-          "x95% deep drilling speed",
-          "x93% move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Genes & More",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Small",
-      "name": "small"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is much smaller than usual for their kind.",
-      "stats": [
-        "x60% body size multipler",
-        "x75% mining speed",
-        "x75% construction speed",
-        "x75% deep drilling speed",
-        "x85% move speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "x60% body size multipler",
-          "x75% mining speed",
-          "x75% construction speed",
-          "x75% deep drilling speed",
-          "x85% move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Genes & More",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Dwarfism",
-      "name": "dwarfism"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
-      "stats": [
-        "+0.35 skill learning (no passion)",
-        "+15% global learning factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+0.35 skill learning (no passion)",
-          "+15% global learning factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Genes & More",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Passioned_Learning",
-      "name": "diligentstudent"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
-      "stats": [
-        "+0.65 skill learning (no passion)",
-        "+30% global learning factor"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+0.65 skill learning (no passion)",
-          "+30% global learning factor"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Genes & More",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Very_Passioned_Learning",
-      "name": "verydiligentstudent"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "There is something about Timmy that makes predators not consider them prey",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Genes & More",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BS_AnimalFriend",
-      "name": "animalfriend"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy loves alcohol. he will never stop being addicted to it.",
-      "stats": [
-        "+10% mental break threshold",
-        "x150% recreation power"
-      ],
-      "conflicts": [
-        "chemicalfascination",
-        "chemicalinterest",
-        "teetotaler",
-        "lush"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "chemicalfascination",
-          "chemicalinterest",
-          "teetotaler",
-          "lush"
-        ],
-        "stats": [
-          "+10% mental break threshold",
-          "x150% recreation power"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Genes & More",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BS_AlcoholAddict",
-      "name": "alcohollover"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy doesn't react to insults or to either part failing a flirt attempt.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Genes & More",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BS_InsultProof",
-      "name": "uninsultable"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy isn't bothered by rough appearances, a bit of rough living. Timmy also doesn't care as much for royal titles.",
-      "stats": [],
-      "conflicts": [
-        "greedy",
-        "jealous",
-        "bodypurist",
-        "misandrist",
-        "misogynist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "greedy",
-          "jealous",
-          "bodypurist",
-          "misandrist",
-          "misogynist"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Big and Small - Genes & More",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BS_Unpretentious",
-      "name": "unpretentious"
     },
     {
       "canAdd": true,
@@ -8642,244 +8282,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1,
-      "description": "Timmy has a strong back which allows him to carry more than most people.",
-      "stats": [
-        "+50 carrying capacity"
-      ],
-      "conflicts": [
-        "wimp",
-        "frailback"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "wimp",
-          "frailback"
-        ],
-        "stats": [
-          "+50 carrying capacity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_StrongBack",
-      "name": "strongback"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy has a very strong back, he must be part mule or something because he can carry a lot more than most people.",
-      "stats": [
-        "+75 carrying capacity"
-      ],
-      "conflicts": [
-        "wimp",
-        "frailback"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "wimp",
-          "frailback"
-        ],
-        "stats": [
-          "+75 carrying capacity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_StrongBack",
-      "name": "verystrongback"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy packs lightly. he will carry less but will move more swiftly.",
-      "stats": [
-        "-15 carrying capacity",
-        "+0.15 move speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-15 carrying capacity",
-          "+0.15 move speed"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_Packing",
-      "name": "packin'light"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is a pack rat, he will keep just about anything that might be useful later.",
-      "stats": [
-        "+30 carrying capacity"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+30 carrying capacity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_Packing",
-      "name": "packrat"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is great at traveling. he moves quickly while carrying more and will forage extra nutrition while traveling in caravans.",
-      "stats": [
-        "+1 social",
-        "+0.10 move speed",
-        "+10 carrying capacity",
-        "-10% bed hunger rate multiplier",
-        "+0.5 foraged food amount"
-      ],
-      "conflicts": [
-        "frailback",
-        "rooted"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "frailback",
-          "rooted"
-        ],
-        "stats": [
-          "+1 social",
-          "+0.10 move speed",
-          "+10 carrying capacity",
-          "-10% bed hunger rate multiplier",
-          "+0.5 foraged food amount"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_Adventuring",
-      "name": "traveler"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy is great at exploration. he moves quickly while carrying more and will forage extra nutrition while traveling in caravans.",
-      "stats": [
-        "+2 social",
-        "+0.15 move speed",
-        "+25 carrying capacity",
-        "-15% bed hunger rate multiplier",
-        "+0.75 foraged food amount"
-      ],
-      "conflicts": [
-        "frailback",
-        "rooted"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "frailback",
-          "rooted"
-        ],
-        "stats": [
-          "+2 social",
-          "+0.15 move speed",
-          "+25 carrying capacity",
-          "-15% bed hunger rate multiplier",
-          "+0.75 foraged food amount"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_Adventuring",
-      "name": "explorer"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 3,
-      "description": "Timmy is great at adventuring. he moves quickly while carrying more and will forage extra nutrition while traveling in caravans.",
-      "stats": [
-        "+3 social",
-        "+0.20 move speed",
-        "+50 carrying capacity",
-        "-20% bed hunger rate multiplier",
-        "+1 foraged food amount"
-      ],
-      "conflicts": [
-        "frailback",
-        "rooted"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "frailback",
-          "rooted"
-        ],
-        "stats": [
-          "+3 social",
-          "+0.20 move speed",
-          "+50 carrying capacity",
-          "-20% bed hunger rate multiplier",
-          "+1 foraged food amount"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_Adventuring",
-      "name": "adventurer"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
       "description": "Timmy has a charismatic personality. he is good at social interactions and trading.",
       "stats": [
         "+2 social",
@@ -9673,168 +9075,6 @@
       },
       "defName": "FT_Evasion",
       "name": "evasive"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a bandolier. he likes to keep extra ammo handy for reloading ranged weapons.",
-      "stats": [
-        "+2 shooting",
-        "-10% aiming time",
-        "+25 carrying capacity"
-      ],
-      "conflicts": [
-        "brawler",
-        "frailback",
-        "ironfist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "brawler",
-          "frailback",
-          "ironfist"
-        ],
-        "stats": [
-          "+2 shooting",
-          "-10% aiming time",
-          "+25 carrying capacity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_Bandolier",
-      "name": "bandolier"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has a sturdy frame. he can carry more and it takes more to bring him down.",
-      "stats": [
-        "-10% incoming damage multiplier",
-        "+10% pain shock threshold",
-        "+25 carrying capacity"
-      ],
-      "conflicts": [
-        "frailback"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "frailback"
-        ],
-        "stats": [
-          "-10% incoming damage multiplier",
-          "+10% pain shock threshold",
-          "+25 carrying capacity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_SturdyFrame",
-      "name": "sturdyframe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has bear arms. he can carry more and his arms pack more of a punch!",
-      "stats": [
-        "+3 melee",
-        "+3 mining",
-        "+25 carrying capacity",
-        "+10% global work speed",
-        "+10% mining speed",
-        "+10% deep drilling speed",
-        "+10% melee door damage factor",
-        "+10% per day slave suppression fall rate",
-        "+10% suppression power"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+3 melee",
-          "+3 mining",
-          "+25 carrying capacity",
-          "+10% global work speed",
-          "+10% mining speed",
-          "+10% deep drilling speed",
-          "+10% melee door damage factor",
-          "+10% per day slave suppression fall rate",
-          "+10% suppression power"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_BearArms",
-      "name": "beararms"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy has a frail back and won't be able to carry as much as the average person.",
-      "stats": [
-        "-25 carrying capacity"
-      ],
-      "conflicts": [
-        "strongback",
-        "verystrongback",
-        "sturdyframe",
-        "wreckingball",
-        "bandolier",
-        "traveler",
-        "explorer",
-        "adventurer",
-        "ironfist",
-        "tenderizer"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "strongback",
-          "verystrongback",
-          "sturdyframe",
-          "wreckingball",
-          "bandolier",
-          "traveler",
-          "explorer",
-          "adventurer",
-          "ironfist",
-          "tenderizer"
-        ],
-        "stats": [
-          "-25 carrying capacity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits Continued",
-        "karmaTypeForAdding": null
-      },
-      "defName": "FT_FrailBack",
-      "name": "frailback"
     },
     {
       "canAdd": true,
@@ -14291,6 +13531,396 @@
       },
       "defName": "PJ_GrayTrait",
       "name": "graysage"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
+      "stats": [
+        "-20% mental break threshold"
+      ],
+      "conflicts": [
+        "abrasive",
+        "kind",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "kind",
+          "psychopath"
+        ],
+        "stats": [
+          "-20% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Framework",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Gentle",
+      "name": "gentle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to use oversized weapons.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Framework",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Giant",
+      "name": "toughsinews"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
+      "stats": [
+        "x130% body size multipler",
+        "x110% construction speed",
+        "x90% move speed",
+        "x80% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x130% body size multipler",
+          "x110% construction speed",
+          "x90% move speed",
+          "x80% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gigantism",
+      "name": "gigantism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is both taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.",
+      "stats": [
+        "x115% body size multipler",
+        "x105% construction speed",
+        "x98% move speed",
+        "x95% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% body size multipler",
+          "x105% construction speed",
+          "x98% move speed",
+          "x95% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Large",
+      "name": "large"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a bit smaller than usual for their kind.",
+      "stats": [
+        "x80% body size multipler",
+        "x95% mining speed",
+        "x95% construction speed",
+        "x95% deep drilling speed",
+        "x93% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x80% body size multipler",
+          "x95% mining speed",
+          "x95% construction speed",
+          "x95% deep drilling speed",
+          "x93% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Small",
+      "name": "small"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is much smaller than usual for their kind.",
+      "stats": [
+        "x60% body size multipler",
+        "x75% mining speed",
+        "x75% construction speed",
+        "x75% deep drilling speed",
+        "x85% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x60% body size multipler",
+          "x75% mining speed",
+          "x75% construction speed",
+          "x75% deep drilling speed",
+          "x85% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Dwarfism",
+      "name": "dwarfism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.35 skill learning (no passion)",
+        "+15% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.35 skill learning (no passion)",
+          "+15% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Passioned_Learning",
+      "name": "studious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.65 skill learning (no passion)",
+        "+30% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.65 skill learning (no passion)",
+          "+30% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Very_Passioned_Learning",
+      "name": "verystudious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There is something about Timmy that makes predators not consider them prey",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AnimalFriend",
+      "name": "animalfriend"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves alcohol. he will never stop being addicted to it.",
+      "stats": [
+        "+10% mental break threshold",
+        "x150% recreation power"
+      ],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush",
+        "ascetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush",
+          "ascetic"
+        ],
+        "stats": [
+          "+10% mental break threshold",
+          "x150% recreation power"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AlcoholAddict",
+      "name": "alcohollover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't react to insults or to either part failing a flirt attempt.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_InsultProof",
+      "name": "uninsultable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy isn't bothered by rough appearances, a bit of rough living. Timmy also doesn't care as much for royal titles.",
+      "stats": [],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "bodypurist",
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "bodypurist",
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Unpretentious",
+      "name": "unpretentious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a part of an unknown consciousness. when others approach, they will feel a burning sensation",
+      "stats": [
+        "+1.0 beauty",
+        "x80% flammability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+1.0 beauty",
+          "x80% flammability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cinders of the Embergarden",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Cinder_Coke",
+      "name": "coke"
     }
   ],
   "races": [
@@ -14393,47 +14023,6 @@
       "defName": "Milira_Race",
       "enabled": true,
       "name": "Milira",
-      "price": 1
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+50.00 Mass",
-          "+80% Flammability",
-          "+$1750 Market value",
-          "+5.00 Move speed",
-          "+25.0C Max comfortable temperature",
-          "+3.0C Min comfortable temperature",
-          "+120% Injury healing factor",
-          "+110% Immunity gain speed",
-          "+40 Carrying capacity",
-          "+65% Pain shock threshold",
-          "+0% Toxic resistance",
-          "+0% Toxic environment resistance",
-          "+80% Eating speed",
-          "+35 Meat amount",
-          "+30 Leather amount",
-          "+0.9 Melee dodge chance",
-          "+85% Aiming time",
-          "+110.00% Negotiation ability",
-          "+107.00% Social impact",
-          "+95% Mining speed",
-          "+105% Mining yield",
-          "+120% Plant work speed",
-          "+115% Hunting stealth",
-          "+90% Construction speed",
-          "+120% Research speed",
-          "+5 Honor value",
-          "+120% Psychic sensitivity"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A humanoid species with regenerative abilities, harboring potent internal energy.",
-      "defName": "Axolotl",
-      "enabled": true,
-      "name": "MoeLotl",
       "price": 1
     },
     {
@@ -14720,6 +14309,81 @@
       "enabled": true,
       "name": "Rabbie",
       "price": 1
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+80% Flammability",
+          "+$1750 Market value",
+          "+5.00 Move speed",
+          "+25.0C Max comfortable temperature",
+          "+3.0C Min comfortable temperature",
+          "+120% Injury healing factor",
+          "+110% Immunity gain speed",
+          "+40 Carrying capacity",
+          "+65% Pain shock threshold",
+          "+0% Toxic resistance",
+          "+0% Toxic environment resistance",
+          "+80% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+0.9 Melee dodge chance",
+          "+85% Aiming time",
+          "+110.00% Negotiation ability",
+          "+107.00% Social impact",
+          "+95% Mining speed",
+          "+105% Mining yield",
+          "+120% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+120% Research speed",
+          "+5 Honor value",
+          "+120% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A humanoid species with regenerative abilities, harboring potent internal energy.",
+      "defName": "Axolotl",
+      "enabled": true,
+      "name": "MoeLotl",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4 Honor value",
+          "+4.60 Move speed",
+          "+50.0C Max comfortable temperature",
+          "+6.0C Min comfortable temperature",
+          "+80 Meat amount",
+          "+75 Leather amount",
+          "+75 Carrying capacity",
+          "+110% Immunity gain speed",
+          "+100% Psychic sensitivity",
+          "+1.0 Melee dodge chance",
+          "+100% Global work speed",
+          "+100% Drug synthesis speed",
+          "+100% Research speed",
+          "+115% Hacking speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "“However, as prosperity inevitably leads to decline, this civilization did not escape the fate of destruction.” The Thucydides Trap led to a great war between two totalitarian regimes on this planet. The outcome of this war has long been lost to history, but one of its most direct consequences was a series of explosions at a nuclear power plant cluster in Siberia, part of the 'Eurasian Common Defense Agreement Alliance.' The massive energy and radioactive materials released from the explosions accidentally awakened a dormant avatar of an Other god deep within the planet (note: to be verified). The awakening of this Other god resulted in two chain reactions: first, the entire Siberian region and parts of Central Asia transformed into enclosed area, making them inaccessible and unobservable from the outside; second, those who were trapped inside the enclosed area, fortunate enough to have survived the war and the 'awakening,' underwent inhuman mutations. The modern scientific community unanimously agrees that these mutated humans are the original 'cinders.'",
+      "defName": "Alien_Cinder",
+      "enabled": true,
+      "name": "Cinder",
+      "price": 2917
     }
   ]
 }

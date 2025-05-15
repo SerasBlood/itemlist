@@ -138,12 +138,6 @@
     "version": "1.2.0.0"
   },
   {
-    "author": "Yanzihko / ChillGreenBean (Patcher)",
-    "name": "Archotech Expanded Patched V1.2.5",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Biscuit",
     "name": "Archotech+ (Continued)",
     "steamId": "2270493883",
@@ -154,6 +148,12 @@
     "name": "Astraltech Bionic Implants",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "SmArtKar",
+    "name": "Athena Framework",
+    "steamId": "2903359518",
+    "version": "0.0.0.0"
   },
   {
     "author": "Fuu Chan",
@@ -309,7 +309,7 @@
     "author": "Wiri",
     "name": "Compositable Loadouts",
     "steamId": "2679126859",
-    "version": "1.0.0+5f86c72c52d604549f0f09c2ac4c425a25149a27"
+    "version": "1.0.0+4409a791907c3e082e0a796a2e4a9a1266362d77"
   },
   {
     "author": "miyamiya, twsta and vokaerian",
@@ -327,7 +327,7 @@
     "author": "民火",
     "name": "Cut plants before building (Continued)",
     "steamId": "3286376165",
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   {
     "author": "DaLLaN",
@@ -548,6 +548,12 @@
   {
     "author": "Darkside",
     "name": "KilledEnemyAutoAllowed (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sea",
+    "name": "Ladies Can Flirt Too!",
     "steamId": null,
     "version": null
   },
@@ -843,7 +849,7 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.5.25"
+    "version": "1.5.31"
   },
   {
     "author": "avilmask",
@@ -910,12 +916,6 @@
     "name": "SRTS Expanded",
     "steamId": "2878587061",
     "version": "1.4.7"
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy (Unofficial Update)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "kathanon",
@@ -1050,6 +1050,18 @@
     "version": null
   },
   {
+    "author": "1trickPwnyta",
+    "name": "Unlimited Threat Scale",
+    "steamId": "2562732435",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Use This Instead",
+    "steamId": "3396308787",
+    "version": "1.5.86"
+  },
+  {
     "author": "Fuu Chan",
     "name": "Useful Terror",
     "steamId": "2636462610",
@@ -1058,6 +1070,12 @@
   {
     "author": "Nephlite and Maxim",
     "name": "Utility Columns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
+    "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
     "version": null
   },
@@ -1128,6 +1146,12 @@
     "version": "1.0.0.1"
   },
   {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
+  },
+  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Trading Expanded",
     "steamId": "2785616901",
@@ -1144,6 +1168,18 @@
     "name": "Vault-Tec - Handy things for your vault!",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sergkart",
+    "name": "WVC - Xenotypes and Genes",
+    "steamId": "2886992038",
+    "version": "1.0.0.0"
   },
   {
     "author": "Crustypeanut and Mersid",
@@ -1242,6 +1278,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Ravvy",
+    "name": "[RWY]Dragon's Descent: Void Dwellers",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "S16",
     "name": "[S16] Standard Body Type Only",
     "steamId": null,
@@ -1282,6 +1324,12 @@
     "name": "ilyvion's Laboratory",
     "steamId": "3296362231",
     "version": "0.14.0+0b9a92f1a739618889fa6217d2161e016ce57336"
+  },
+  {
+    "author": "Dracora",
+    "name": "ΩmegaTech",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "vin",
@@ -1538,8 +1586,8 @@
   {
     "author": "OskarPotocki, Atlas, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "1718190143",
+    "version": "1.1.0"
   },
   {
     "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
@@ -1752,6 +1800,12 @@
     "version": null
   },
   {
+    "author": "BreadMoAOBA",
+    "name": "Cinders of the Embergarden",
+    "steamId": "3421959154",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Davai",
     "name": "Davai's Sorted Categories",
     "steamId": "3419053173",
@@ -1792,6 +1846,12 @@
     "name": "Mad Skills",
     "steamId": "731111514",
     "version": "2.7.0.0"
+  },
+  {
+    "author": "Epicguru",
+    "name": "Melee Animation",
+    "steamId": "2944488802",
+    "version": "1.0.0+46a9740cb50a3dad6d14d360704a585040167a04"
   },
   {
     "author": "Outremer and Fortified_Home",
@@ -1854,6 +1914,18 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "nirahiel, joseasoler and Taranchuk",
+    "name": "Skipdoor Delivery",
+    "steamId": "3233578663",
+    "version": "0.2.1.0"
+  },
+  {
     "author": "Uuugggg",
     "name": "TD Find Lib",
     "steamId": "2895299310",
@@ -1874,7 +1946,7 @@
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
-    "steamId": "2009500580",
+    "steamId": "",
     "version": "7.0.6.0-RC1+be85524012f4811e094a1de5a45e51952864cf2a"
   },
   {
@@ -2004,6 +2076,12 @@
     "version": null
   },
   {
+    "author": "SK",
+    "name": "Milira MeleeAnimation fix",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ancot",
     "name": "Milira Race Facial Animation",
     "steamId": null,
@@ -2038,6 +2116,12 @@
     "name": "Nyaron Facial Animation",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "Progression: Storytellers",
+    "steamId": "3361425712",
+    "version": "1.0.0.0"
   },
   {
     "author": "Garethp",
@@ -2152,6 +2236,12 @@
     "name": "Culture Category",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "turkler",
+    "name": "Machinists - A Faction Expansion",
+    "steamId": "3302616007",
+    "version": "0.1.0.0"
   },
   {
     "author": "turkler",
