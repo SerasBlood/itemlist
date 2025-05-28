@@ -21417,7 +21417,7 @@
 	{
 		"abr": "dragonhelm",
 		"price": 8542,
-		"category": "Headgear",
+		"category": "Armor",
 		"defname": "Crows_Headgear_DragonHelm"
 	},
 	{
@@ -35699,7 +35699,571 @@
 		"price": 167,
 		"category": "Misc",
 		"defname": "WVC_Genepack"
+	},
+	{
+		"abr": "xenohumanrecharger",
+		"price": 342,
+		"category": "Misc",
+		"defname": "WVC_GeneRecharger"
+	},
+	{
+		"abr": "xeno-tree",
+		"price": 3667,
+		"category": "Plants",
+		"defname": "WVC_Plant_TreeXenoSpawner"
+	},
+	{
+		"abr": "xeno-treespore",
+		"price": 3667,
+		"category": "Misc",
+		"defname": "WVC_XenoSpawnerSeed"
+	},
+	{
+		"abr": "xenotypenullifierserum",
+		"price": 2117,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeSerum_Nullifier"
+	},
+	{
+		"abr": "xenotypenullifierserum",
+		"price": 4500,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeSerum_Baseliner"
+	},
+	{
+		"abr": "xenotyperesurrector",
+		"price": 21417,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeResurrectorSerum_Ultra"
+	},
+	{
+		"abr": "xenotyperesurrector",
+		"price": 18083,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeResurrectorSerum_Undead"
+	},
+	{
+		"abr": "xenotypeserum",
+		"price": 7250,
+		"category": "Xenotype serums",
+		"defname": "WVC_XenotypeSerum_Base"
+	},
+	{
+		"abr": "zeusknucklesmodule",
+		"price": 1575,
+		"category": "Modules",
+		"defname": "LTS_ModuleArm_ZeusKnuckles"
+	},
+	{
+		"abr": "ωmegapointmanifold",
+		"price": 16666665,
+		"category": "Archotech",
+		"defname": "OmegaPointManifold"
+	},
+	{
+		"abr": "ωmega-analyzer",
+		"price": 535600,
+		"category": "Misc",
+		"defname": "OmegaAnalyzer"
+	},
+	{
+		"abr": "ωmegablade",
+		"price": 833333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_OmegatechBlade"
+	},
+	{
+		"abr": "ωmegatechaegisarmor",
+		"price": 327400,
+		"category": "Armor",
+		"defname": "OmegatechAegisArmor"
+	},
+	{
+		"abr": "ωmegatecharchostrandreactor",
+		"price": 25000,
+		"category": "Special",
+		"defname": "OmegatechInfiniteArchostrandreactor"
+	},
+	{
+		"abr": "ωmegatecharm",
+		"price": 53467,
+		"category": "Archotech",
+		"defname": "OmegatechArm"
+	},
+	{
+		"abr": "ωmegatechattoforge",
+		"price": 8333334,
+		"category": "Special",
+		"defname": "OmegatechAttoForge"
+	},
+	{
+		"abr": "ωmegatechbattery",
+		"price": 144000,
+		"category": "Power",
+		"defname": "OmegatechBattery"
+	},
+	{
+		"abr": "ωmegatechbio-regulator",
+		"price": 13333,
+		"category": "Archotech",
+		"defname": "OmegatechBioRegulator"
+	},
+	{
+		"abr": "ωmegatechblockreactor",
+		"price": 25000,
+		"category": "Special",
+		"defname": "OmegatechInfiniteArchoblockreactor"
+	},
+	{
+		"abr": "ωmegatechchemfuelreactor",
+		"price": 166667,
+		"category": "Special",
+		"defname": "OmegatechInfiniteChemreactor"
+	},
+	{
+		"abr": "ωmegatechcognitiveforge",
+		"price": 15833,
+		"category": "Archotech",
+		"defname": "OmegatechCognitiveForge"
+	},
+	{
+		"abr": "ωmegatechcomponentreactor",
+		"price": 25000,
+		"category": "Special",
+		"defname": "OmegatechInfiniteArchocomponentreactor"
+	},
+	{
+		"abr": "ωmegatechcrucible",
+		"price": 249708,
+		"category": "Production",
+		"defname": "OmegatechCrucible"
+	},
+	{
+		"abr": "ωmegatechear",
+		"price": 65000,
+		"category": "Archotech",
+		"defname": "OmegatechEar"
+	},
+	{
+		"abr": "ωmegatecheye",
+		"price": 49300,
+		"category": "Archotech",
+		"defname": "OmegatechEye"
+	},
+	{
+		"abr": "ωmegatechfaceplate",
+		"price": 65000,
+		"category": "Archotech",
+		"defname": "OmegatechFaceplate"
+	},
+	{
+		"abr": "ωmegatechfemtoforge",
+		"price": 8333334,
+		"category": "Special",
+		"defname": "OmegatechFemtoForge"
+	},
+	{
+		"abr": "ωmegatechgoldreactor",
+		"price": 166667,
+		"category": "Special",
+		"defname": "OmegatechInfiniteGoldreactor"
+	},
+	{
+		"abr": "ωmegatechheart",
+		"price": 75000,
+		"category": "Archotech",
+		"defname": "OmegatechHeart"
+	},
+	{
+		"abr": "ωmegatechinterfacesuit",
+		"price": 76433,
+		"category": "Apparel",
+		"defname": "OmegatechInterfaceSuit"
+	},
+	{
+		"abr": "ωmegatechkidney",
+		"price": 70000,
+		"category": "Archotech",
+		"defname": "OmegatechKidney"
+	},
+	{
+		"abr": "ωmegatechkineticintegrator",
+		"price": 12500,
+		"category": "Archotech",
+		"defname": "OmegatechKineticIntegrator"
+	},
+	{
+		"abr": "ωmegatechleg",
+		"price": 70967,
+		"category": "Archotech",
+		"defname": "OmegatechLeg"
+	},
+	{
+		"abr": "ωmegatechliver",
+		"price": 75000,
+		"category": "Archotech",
+		"defname": "OmegatechLiver"
+	},
+	{
+		"abr": "ωmegatechlung",
+		"price": 70000,
+		"category": "Archotech",
+		"defname": "OmegatechLung"
+	},
+	{
+		"abr": "ωmegatechnullifier",
+		"price": 133333,
+		"category": "Ranged weapons",
+		"defname": "Gun_OmegatechNullifier"
+	},
+	{
+		"abr": "ωmegatechpelvis",
+		"price": 70000,
+		"category": "Archotech",
+		"defname": "OmegatechPelvis"
+	},
+	{
+		"abr": "ωmegatechphysicalmatrix",
+		"price": 33333,
+		"category": "Archotech",
+		"defname": "OmegatechPhysicalMatrix"
+	},
+	{
+		"abr": "ωmegatechpicoforge",
+		"price": 8333334,
+		"category": "Special",
+		"defname": "OmegatechPicoForge"
+	},
+	{
+		"abr": "ωmegatechplasteelreactor",
+		"price": 25000,
+		"category": "Special",
+		"defname": "OmegatechInfinitePlasteelreactor"
+	},
+	{
+		"abr": "ωmegatechprogenitormantle",
+		"price": 241725,
+		"category": "Archotech",
+		"defname": "OmegatechProgenitorMantle"
+	},
+	{
+		"abr": "ωmegatechproto-exoskeletoninjector",
+		"price": 7000000,
+		"category": "Archotech",
+		"defname": "OmegatechProtoExoskeleton"
+	},
+	{
+		"abr": "ωmegatechrifle",
+		"price": 300000,
+		"category": "Ranged weapons",
+		"defname": "Gun_OmegatechRifle"
+	},
+	{
+		"abr": "ωmegatechsentinelhelm",
+		"price": 163583,
+		"category": "Headgear",
+		"defname": "OmegatechSentinelHelm"
+	},
+	{
+		"abr": "ωmegatechsilverreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "OmegatechInfiniteSilverreactor"
+	},
+	{
+		"abr": "ωmegatechspine",
+		"price": 75000,
+		"category": "Archotech",
+		"defname": "OmegatechSpine"
+	},
+	{
+		"abr": "ωmegatechsteelreactor",
+		"price": 166667,
+		"category": "Special",
+		"defname": "OmegatechInfiniteSteelreactor"
+	},
+	{
+		"abr": "ωmegatechstomach",
+		"price": 70000,
+		"category": "Archotech",
+		"defname": "OmegatechStomach"
+	},
+	{
+		"abr": "ωmegatechsurvivalnode",
+		"price": 24650,
+		"category": "Archotech",
+		"defname": "OmegatechSurvivalNode"
+	},
+	{
+		"abr": "ωmegatechuraniumreactor",
+		"price": 25000,
+		"category": "Special",
+		"defname": "OmegatechInfiniteUraniumreactor"
+	},
+	{
+		"abr": "ωmegatechvanometricpowercell",
+		"price": 410000,
+		"category": "Special",
+		"defname": "OmegatechVanometricPowerCell"
+	},
+	{
+		"abr": "fridge",
+		"price": 280,
+		"category": "Furniture",
+		"defname": "ReelStorageFridge"
+	},
+	{
+		"abr": "r&d(redacted)injector",
+		"price": 700,
+		"category": "Items",
+		"defname": "RedactedInjector"
+	},
+	{
+		"abr": "ωmegapointmanifoldinjector",
+		"price": 16666665,
+		"category": "Archotech",
+		"defname": "OmegaPointManifoldNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechadrenalsystem",
+		"price": 24883,
+		"category": "Archotech",
+		"defname": "OmegatechAdrenalSystem"
+	},
+	{
+		"abr": "ωmegatechadrenalsysteminjector",
+		"price": 15833,
+		"category": "Archotech",
+		"defname": "OmegatechAdrenalSystemNaniteInjector"
+	},
+	{
+		"abr": "ωmegatecharmnaniteinjector",
+		"price": 16667,
+		"category": "Archotech",
+		"defname": "OmegatechArmNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechbio-regulatorinjector",
+		"price": 19167,
+		"category": "Archotech",
+		"defname": "OmegatechBioRegulatorInjector"
+	},
+	{
+		"abr": "ωmegatechchrono-core",
+		"price": 9808,
+		"category": "Archotech",
+		"defname": "OmegatechChronoCore"
+	},
+	{
+		"abr": "ωmegatechchrono-coreinjector",
+		"price": 7500,
+		"category": "Archotech",
+		"defname": "OmegatechChronoCoreInjector"
+	},
+	{
+		"abr": "ωmegatechcognitiveforgeinjector",
+		"price": 19167,
+		"category": "Archotech",
+		"defname": "OmegatechCognitiveForgeInjector"
+	},
+	{
+		"abr": "ωmegatechdermalaugmentation",
+		"price": 50800,
+		"category": "Archotech",
+		"defname": "OmegatechSkin"
+	},
+	{
+		"abr": "ωmegatechdermalreinforcementinjector(aux)",
+		"price": 20000,
+		"category": "Archotech",
+		"defname": "OmegatechDermalReinforcementUniversalInjector"
+	},
+	{
+		"abr": "ωmegatechdermalreinforcementinjector(blunt)",
+		"price": 20000,
+		"category": "Archotech",
+		"defname": "OmegatechDermalReinforcementBluntInjector"
+	},
+	{
+		"abr": "ωmegatechdermalreinforcementinjector(heat)",
+		"price": 20000,
+		"category": "Archotech",
+		"defname": "OmegatechDermalReinforcementHeatInjector"
+	},
+	{
+		"abr": "ωmegatechdermalreinforcementinjector(psychic)",
+		"price": 20000,
+		"category": "Archotech",
+		"defname": "OmegatechDermalReinforcementPsychicInjector"
+	},
+	{
+		"abr": "ωmegatechdermalreinforcementinjector(sharp)",
+		"price": 20000,
+		"category": "Archotech",
+		"defname": "OmegatechDermalReinforcementSharpInjector"
+	},
+	{
+		"abr": "ωmegatechdermalreinforcementinjector(toxic)",
+		"price": 20000,
+		"category": "Archotech",
+		"defname": "OmegatechDermalReinforcementToxicInjector"
+	},
+	{
+		"abr": "ωmegatechearnaniteinjector",
+		"price": 5000,
+		"category": "Archotech",
+		"defname": "OmegatechEarNaniteInjector"
+	},
+	{
+		"abr": "ωmegatecheyenaniteinjector",
+		"price": 11667,
+		"category": "Archotech",
+		"defname": "OmegatechEyeNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechfaceplatenaniteinjector",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "OmegatechFaceplateNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechheartnaniteinjector",
+		"price": 15000,
+		"category": "Archotech",
+		"defname": "OmegatechHeartNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechinvisibilityinjector",
+		"price": 19167,
+		"category": "Archotech",
+		"defname": "OmegatechInvisibilityInjector"
+	},
+	{
+		"abr": "ωmegatechinvisibilitymatrix",
+		"price": 29417,
+		"category": "Archotech",
+		"defname": "OmegatechInvisibilityMatrix"
+	},
+	{
+		"abr": "ωmegatechjaw",
+		"price": 30717,
+		"category": "Archotech",
+		"defname": "OmegatechJaw"
+	},
+	{
+		"abr": "ωmegatechjawnaniteinjector",
+		"price": 15833,
+		"category": "Archotech",
+		"defname": "OmegatechJawNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechjoywire",
+		"price": 10375,
+		"category": "Archotech",
+		"defname": "OmegatechJoywire"
+	},
+	{
+		"abr": "ωmegatechjoywireinjector",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "OmegatechJoywireInjector"
+	},
+	{
+		"abr": "ωmegatechkidneynaniteinjector",
+		"price": 8000,
+		"category": "Archotech",
+		"defname": "OmegatechKidneyNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechkineticintegratorinjector",
+		"price": 19167,
+		"category": "Archotech",
+		"defname": "OmegatechKineticIntegratorInjector"
+	},
+	{
+		"abr": "ωmegatechlegnaniteinjector",
+		"price": 18333,
+		"category": "Archotech",
+		"defname": "OmegatechLegNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechlivernaniteinjector",
+		"price": 14167,
+		"category": "Archotech",
+		"defname": "OmegatechLiverNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechlungnaniteinjector",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "OmegatechLungNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechneuralbloom",
+		"price": 10358,
+		"category": "Archotech",
+		"defname": "OmegatechNeuralBloom"
+	},
+	{
+		"abr": "ωmegatechneuralbloominjector",
+		"price": 8333,
+		"category": "Archotech",
+		"defname": "OmegatechNeuralBloomInjector"
+	},
+	{
+		"abr": "ωmegatechneuraldisruptor",
+		"price": 53333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_OmegatechNeuralDisruptor"
+	},
+	{
+		"abr": "ωmegatechpelvisnaniteinjector",
+		"price": 12500,
+		"category": "Archotech",
+		"defname": "OmegatechPelvisNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechprogenitormantleinjector",
+		"price": 50000,
+		"category": "Archotech",
+		"defname": "OmegatechProgenitorMantleNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechskinnaniteinjector",
+		"price": 15000,
+		"category": "Archotech",
+		"defname": "OmegatechSkinNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechspinenaniteinjector",
+		"price": 16667,
+		"category": "Archotech",
+		"defname": "OmegatechSpineNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechstomachnaniteinjector",
+		"price": 11667,
+		"category": "Archotech",
+		"defname": "OmegatechStomachNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechsurvivalnodeinjector",
+		"price": 15000,
+		"category": "Archotech",
+		"defname": "OmegatechSurvivalNodeNaniteInjector"
+	},
+	{
+		"abr": "ωmegatechtongue",
+		"price": 10833,
+		"category": "Archotech",
+		"defname": "OmegatechTongue"
+	},
+	{
+		"abr": "ωmegatechtonguenaniteinjector",
+		"price": 13333,
+		"category": "Archotech",
+		"defname": "OmegatechTongueInjector"
 	}
 	],
-	"total": 6001
+	"total": 6044
 }
