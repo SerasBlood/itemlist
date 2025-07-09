@@ -141,7 +141,7 @@
     "author": "Amnabi",
     "name": "Amnabi's Flags (Continued)",
     "steamId": "2592638428",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   {
     "author": "MO",
@@ -297,7 +297,7 @@
     "author": "Fraser Hitchen",
     "name": "Better Beggars (Continued)",
     "steamId": "3006899215",
-    "version": "1.5.3"
+    "version": "1.6.0"
   },
   {
     "author": "Nalzurin",
@@ -350,8 +350,8 @@
   {
     "author": "Falconne",
     "name": "Better Workbench Management",
-    "steamId": null,
-    "version": null
+    "steamId": "935982361",
+    "version": "1.5.36.0+943ada0388febcf3ccb5db567f2b0746ce32f3b3"
   },
   {
     "author": "Sylant",
@@ -472,6 +472,12 @@
     "name": "Cash Register",
     "steamId": "2506046833",
     "version": "1.5.0.3"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.5.10.0"
   },
   {
     "author": "Owlchemist",
@@ -807,7 +813,7 @@
     "author": "Dubwise",
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
-    "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
+    "version": "1.0.0+5fb044d66fad0b387b699f5d503d66ffcf14715f"
   },
   {
     "author": "Halituis Amaricanus",
@@ -832,6 +838,12 @@
     "name": "Enable Oversized Weapons",
     "steamId": "2543371889",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Slime-Senpai",
+    "name": "EndlessGrowth",
+    "steamId": "2894401734",
+    "version": "1.5.2.0"
   },
   {
     "author": "Bonible",
@@ -976,12 +988,6 @@
     "name": "Fix Styled Blueprints",
     "steamId": "2957953663",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Dorsai",
-    "name": "Fix XML Extensions TabView",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Mlie",
@@ -1275,7 +1281,7 @@
     "author": "Zaljerem",
     "name": "ItemListSelector (Continued)",
     "steamId": "3288439044",
-    "version": "1.0.0.0"
+    "version": "1.0.1.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -1551,7 +1557,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.2"
+    "version": "1.6.5"
   },
   {
     "author": "Vesper",
@@ -1689,7 +1695,7 @@
     "author": "Owlchemist",
     "name": "Perspective: Buildings (Continued)",
     "steamId": "3346955193",
-    "version": "1.5.3"
+    "version": "1.6.0"
   },
   {
     "author": "Owlchemist",
@@ -2442,18 +2448,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
-  },
-  {
     "author": "Reiquard",
     "name": "Tooltipped Long Names",
     "steamId": null,
@@ -2622,6 +2616,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Grenades",
     "steamId": null,
@@ -2691,13 +2691,13 @@
     "author": "Sl4vP0weR",
     "name": "We Are United",
     "steamId": "3030804445",
-    "version": "1.0.0+b276df0654b4f932c4a98816c5a157c7632daaca"
+    "version": "1.0.0+2243b9e96c1f4dd01438e3c0f70c35d905af0510"
   },
   {
     "author": "Liebasam",
     "name": "We Had a Trader? (Continued)",
     "steamId": "1541408076",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   {
     "author": "Kikohi and Sarg",
@@ -2739,7 +2739,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.7.1"
+    "version": "1.7.2"
   },
   {
     "author": "Zaljerem",
@@ -2812,12 +2812,6 @@
     "name": "[K4G] Christmas Hats",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Cavenaugh",
-    "name": "[KV] Call Trade Ships [1.5 Patched]",
-    "steamId": "3226502149",
-    "version": "1.0.0.0"
   },
   {
     "author": "Kiame Vivacity",
@@ -2925,7 +2919,7 @@
     "author": "XeoNovaDan",
     "name": "[XND] Profitable Weapons (Continued)",
     "steamId": "2269697598",
-    "version": "1.5.1"
+    "version": "1.6.0"
   },
   {
     "author": "lmgginspace",
@@ -3104,20 +3098,20 @@
   {
     "author": "Neko",
     "name": "Thunderstorm",
-    "steamId": null,
-    "version": null
+    "steamId": "3278460897",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
   },
   {
     "author": "NuanKi",
     "name": "Un-Limited Reborn",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
+    "steamId": "3295368629",
+    "version": "0.0.0.0"
   },
   {
     "author": "Phoenix",
@@ -3378,16 +3372,16 @@
     "version": "1.5.0"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+  },
+  {
     "author": "ferny",
     "name": "Transport Category",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
-    "steamId": "3239583412",
-    "version": "1.5.0.1"
   },
   {
     "author": "ハグ",
@@ -3452,12 +3446,6 @@
   {
     "author": "Oskar Potocki and Legodude17",
     "name": "Vanilla Backstories Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kikohi and Oskar Potocki",
-    "name": "Vanilla Base Generation Expanded",
     "steamId": null,
     "version": null
   },
@@ -3744,7 +3732,7 @@
     "version": null
   },
   {
-    "author": "legodude17 and Oskar Potocki",
+    "author": "legodude17, Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Skills Expanded",
     "steamId": "3400246558",
     "version": "1.0.0.0"
@@ -4078,6 +4066,12 @@
     "name": "Trash Mod",
     "steamId": "3263035126",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
   },
   {
     "author": "Archangel",
@@ -4670,8 +4664,8 @@
   {
     "author": "Zaljerem",
     "name": "Majestic Foliage Framework[HH] (Continued)",
-    "steamId": null,
-    "version": null
+    "steamId": "3358954913",
+    "version": "1.0.5.0"
   },
   {
     "author": "Seti",
@@ -4970,6 +4964,24 @@
   {
     "author": "ferny",
     "name": "Progression: Equipment",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)BasicThings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)LightningBolt",
     "steamId": null,
     "version": null
   },
