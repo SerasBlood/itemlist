@@ -42,6 +42,18 @@
     "version": "11.0.5"
   },
   {
+    "author": "Dracora",
+    "name": "(RD)BasicThings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dracora",
+    "name": "(RD)LightningBolt",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "1trickPwnyta",
     "name": "1trickPwnyta's Anomaly Patch",
     "steamId": "3242000764",
@@ -216,6 +228,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Dizzy Ioeuy",
+    "name": "Art on Neolithic Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ferny",
     "name": "Art-Accurate/Doubled Gene Bank",
     "steamId": null,
@@ -232,6 +250,12 @@
     "name": "Auto Animal Flap",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Linnun",
+    "name": "Auto-Cast Specialist Commands",
+    "steamId": "3459647882",
+    "version": "1.0.0.0"
   },
   {
     "author": "tiagorbrodrigues",
@@ -466,12 +490,6 @@
     "name": "Caravan Mood Buff",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": "2506046833",
-    "version": "1.5.0.3"
   },
   {
     "author": "void",
@@ -2616,18 +2634,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Grenades",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mlie",
     "name": "Various Space Ship Chunk (Continued)",
     "steamId": "2014616487",
@@ -2812,6 +2818,12 @@
     "name": "[K4G] Christmas Hats",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Cavenaugh",
+    "name": "[KV] Call Trade Ships [1.6 Patched]",
+    "steamId": "3226502149",
+    "version": "1.0.0.0"
   },
   {
     "author": "Kiame Vivacity",
@@ -3000,12 +3012,6 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Gastronomy",
-    "steamId": "2279786905",
-    "version": "1.5.0.4"
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -3040,12 +3046,6 @@
     "name": "More Planning [1.5]",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "NightmareCorporation",
-    "name": "Museums",
-    "steamId": "3204176859",
-    "version": "1.0.0+db3c645454c3e749470b20a9cbb1f844a725b267"
   },
   {
     "author": "bogknight",
@@ -3114,6 +3114,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Phoenix",
     "name": "Vanilla Solar Shield Retexture",
     "steamId": null,
@@ -3165,12 +3171,6 @@
     "author": "Sarg Bjornson",
     "name": "Alpha Mythology",
     "steamId": "1821617793",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Prefabs",
-    "steamId": "3070780021",
     "version": "1.0.0.0"
   },
   {
@@ -3236,12 +3236,6 @@
   {
     "author": "DetVisor",
     "name": "Epochs - Pyrinth",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dickmosi",
-    "name": "Firefoam Things",
     "steamId": null,
     "version": null
   },
@@ -3446,6 +3440,12 @@
   {
     "author": "Oskar Potocki and Legodude17",
     "name": "Vanilla Backstories Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
     "steamId": null,
     "version": null
   },
@@ -3781,6 +3781,12 @@
   },
   {
     "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Laser",
     "steamId": null,
     "version": null
@@ -3880,6 +3886,12 @@
     "name": "Everybody Gets One",
     "steamId": "1687566130",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "dickmosi",
+    "name": "Firefoam Things",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "NuanKi",
@@ -4254,6 +4266,12 @@
     "version": null
   },
   {
+    "author": "LadyCookie",
+    "name": "[LYN] VRE Highmate Feline Ears Use Hair Color",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dracora",
     "name": "ΩmegaTech",
     "steamId": null,
@@ -4316,12 +4334,6 @@
   {
     "author": "Smxrez",
     "name": "Factories: Re-Examined",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ferny",
-    "name": "Fuck Psytrainers",
     "steamId": null,
     "version": null
   },
@@ -4462,12 +4474,6 @@
     "name": "Animated Revia Ears - Retexture",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "NightmareCorporation",
-    "name": "Aquariums!",
-    "steamId": "3478462020",
-    "version": "1.0.0+6a36f059a4363f6f6e2bc9be78bd852555d2240e"
   },
   {
     "author": "Harmonea",
@@ -4968,27 +4974,27 @@
     "version": null
   },
   {
-    "author": "Dracora",
-    "name": "(RD)BasicThings",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kikohi and Oskar Potocki",
-    "name": "Vanilla Base Generation Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dracora",
-    "name": "(RD)LightningBolt",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
+  },
+  {
+    "author": "SirVan, RedMattis and Alite ect",
+    "name": "Dark Ages : Beasts and Monsters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andromeda",
+    "name": "Nice Bill Tab",
+    "steamId": "3520130671",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andromeda",
+    "name": "Useful Marks",
+    "steamId": "3506573327",
+    "version": "1.0.0.0"
   }
 ]
