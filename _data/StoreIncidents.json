@@ -21,6 +21,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -177,7 +182,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 800,
+		"price": 80,
 		"karmatype": "Good"
 	},
 	{
@@ -283,7 +288,7 @@
 	{
 		"abr": "trait",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
@@ -431,5 +436,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 87
 }
