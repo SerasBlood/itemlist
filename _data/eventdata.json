@@ -660,7 +660,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 800,
+    "LocalCooldown": 420,
     "Mod": "ToolkitUtils"
   },
   "wear": {
