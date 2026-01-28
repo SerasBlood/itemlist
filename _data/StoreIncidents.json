@@ -434,7 +434,12 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "SpringCleaning",
+		"price": 1000,
+		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 88
 }
