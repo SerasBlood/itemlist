@@ -49428,6 +49428,30 @@
 		"category": "Misc",
 		"defname": "VTE_AirDuct_NAWDiagonal"
 	},
+	{
+		"abr": "auto-cryptostasisgeneinjector",
+		"price": 2000,
+		"category": "Misc",
+		"defname": "AutoCryptostasisInjector"
+	},
+	{
+		"abr": "carrotplantseedbundle",
+		"price": 500,
+		"category": "Seed bundles",
+		"defname": "DankPyon_Plant_Carrots_SeedBundle"
+	},
+	{
+		"abr": "dia.ammunitionpipe",
+		"price": 10,
+		"category": "Misc",
+		"defname": "Reel_AmmoPipe_NAWDiagonal"
+	},
+	{
+		"abr": "dia.animahedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_Anima_NAWDiagonal"
+	}
 	],
-	"total": 8309
+	"total": 8313
 }
