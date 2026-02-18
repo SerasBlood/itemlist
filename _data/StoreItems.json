@@ -49451,7 +49451,433 @@
 		"price": 11,
 		"category": "Misc",
 		"defname": "AP_Hedge_Anima_NAWDiagonal"
-	}
+	},
+	{
+		"abr": "dia.barrierswall",
+		"price": 19,
+		"category": "Misc",
+		"defname": "RB_BarriersWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.burrowwall",
+		"price": 21,
+		"category": "Misc",
+		"defname": "VFEI_BurrowWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.castlewall",
+		"price": 36,
+		"category": "Misc",
+		"defname": "VFEM2_CastleWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cellwall",
+		"price": 17,
+		"category": "Misc",
+		"defname": "RB_CellWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.clerestorywall",
+		"price": 17,
+		"category": "Misc",
+		"defname": "RB_ClerestoryWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(claychunk)",
+		"price": 2,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_DankPyon_ChunkClay_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(cragstonechunk)",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_AB_ChunkCragstone_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(granitechunk)",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_ChunkGranite_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(hardenedslimechunk)",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_AB_ChunkSlimeStone_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(limestonechunk)",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_ChunkLimestone_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(marblechunk)",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_ChunkMarble_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(mudstonechunk)",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_AB_ChunkMudstone_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(onyxglasschunk)",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_AB_ChunkObsidian_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(rosequartzchunk)",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_GU_ChunkRoseQuartz_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(sandstonechunk)",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_ChunkSandstone_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(slatechunk)",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_ChunkSlate_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cobblestonewall(vacstonechunk)",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VFEM2_CobblestoneWall_ChunkVacstone_NAWDiagonal"
+	},
+	{
+		"abr": "dia.compressedscarletsludgepipe",
+		"price": 7,
+		"category": "Misc",
+		"defname": "USH_CompressedScarletSludgePipe_NAWDiagonal"
+	},
+	{
+		"abr": "dia.cornerfence",
+		"price": 4,
+		"category": "Misc",
+		"defname": "Gomi_FloorFence_NAWDiagonal"
+	},
+	{
+		"abr": "dia.floweryhedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_Flowery_NAWDiagonal"
+	},
+	{
+		"abr": "dia.floweryhedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_FloweryTwo_NAWDiagonal"
+	},
+	{
+		"abr": "dia.gauranlenhedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_Gau_NAWDiagonal"
+	},
+	{
+		"abr": "dia.glasswall",
+		"price": 17,
+		"category": "Misc",
+		"defname": "RB_GlassWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.gothicstylecastleguardrail",
+		"price": 18,
+		"category": "Misc",
+		"defname": "MUS_Gothicstyle_Barricade_NAWDiagonal"
+	},
+	{
+		"abr": "dia.gothicstylerosehedge",
+		"price": 8,
+		"category": "Misc",
+		"defname": "MUS_Gothicstyle_RoseHedge_NAWDiagonal"
+	},
+	{
+		"abr": "dia.gravshipglasshull",
+		"price": 22,
+		"category": "Misc",
+		"defname": "RB_GravshipWindowHull_NAWDiagonal"
+	},
+	{
+		"abr": "dia.gravshiphull",
+		"price": 15,
+		"category": "Misc",
+		"defname": "RB_SmoothGravshipHull_NAWDiagonal"
+	},
+	{
+		"abr": "dia.gravshippanoramahull",
+		"price": 28,
+		"category": "Misc",
+		"defname": "RB_GravshipPanoramaHull_NAWDiagonal"
+	},
+	{
+		"abr": "dia.handrail",
+		"price": 4,
+		"category": "Misc",
+		"defname": "Gomi_Handrail_NAWDiagonal"
+	},
+	{
+		"abr": "dia.hedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_NAWDiagonal"
+	},
+	{
+		"abr": "dia.hiddenammunitionpipe",
+		"price": 21,
+		"category": "Misc",
+		"defname": "Reel_SubAmmoPipe_NAWDiagonal"
+	},
+	{
+		"abr": "dia.hiddennutrientpastepipe",
+		"price": 14,
+		"category": "Misc",
+		"defname": "VNPE_UndergroundNutrientPastePipe_NAWDiagonal"
+	},
+	{
+		"abr": "dia.logwall",
+		"price": 7,
+		"category": "Misc",
+		"defname": "VFEArch_LogWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.lowhedge",
+		"price": 5,
+		"category": "Misc",
+		"defname": "AP_LowHedge_NAWDiagonal"
+	},
+	{
+		"abr": "dia.milkpipe",
+		"price": 3,
+		"category": "Misc",
+		"defname": "MP_MilkPipe_NAWDiagonal"
+	},
+	{
+		"abr": "dia.musgothicstylefence",
+		"price": 11,
+		"category": "Misc",
+		"defname": "MUS_Gothicstyle_Fence_NAWDiagonal"
+	},
+	{
+		"abr": "dia.musgothicstylehedge",
+		"price": 10,
+		"category": "Misc",
+		"defname": "MUS_Gothicstyle_Hedge_NAWDiagonal"
+	},
+	{
+		"abr": "dia.museumbarrier",
+		"price": 17,
+		"category": "Misc",
+		"defname": "Museums_Barrier_NAWDiagonal"
+	},
+	{
+		"abr": "dia.nutrientpastepipe",
+		"price": 7,
+		"category": "Misc",
+		"defname": "VNPE_NutrientPastePipe_NAWDiagonal"
+	},
+	{
+		"abr": "dia.ocularhedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_Ocular_NAWDiagonal"
+	},
+	{
+		"abr": "dia.ornatewall",
+		"price": 75,
+		"category": "Misc",
+		"defname": "RB_OrnateWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.palisades",
+		"price": 29,
+		"category": "Misc",
+		"defname": "DankPyon_Palisade_NAWDiagonal"
+	},
+	{
+		"abr": "dia.reinforcedclerestorywall",
+		"price": 44,
+		"category": "Misc",
+		"defname": "RB_ReinforcedClerestoryWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.reinforcedglasswall",
+		"price": 71,
+		"category": "Misc",
+		"defname": "RB_ReinforcedGlassWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.royalcarpet(patterna)",
+		"price": 40,
+		"category": "Misc",
+		"defname": "JFRoyalCarpets_A_NAWDiagonal"
+	},
+	{
+		"abr": "dia.royalcarpet(patternb)",
+		"price": 40,
+		"category": "Misc",
+		"defname": "JFRoyalCarpets_B_NAWDiagonal"
+	},
+	{
+		"abr": "dia.royalcarpet(patternc)",
+		"price": 40,
+		"category": "Misc",
+		"defname": "JFRoyalCarpets_C_NAWDiagonal"
+	},
+	{
+		"abr": "dia.royalcarpet(patternd)",
+		"price": 40,
+		"category": "Misc",
+		"defname": "JFRoyalCarpets_D_NAWDiagonal"
+	},
+	{
+		"abr": "dia.scarletmechanitespipe",
+		"price": 7,
+		"category": "Misc",
+		"defname": "USH_ScarletMechanitesPipe_NAWDiagonal"
+	},
+	{
+		"abr": "dia.scarletpipe",
+		"price": 10,
+		"category": "Misc",
+		"defname": "USH_UndergroundScarletPipe_NAWDiagonal"
+	},
+	{
+		"abr": "dia.shortwall",
+		"price": 14,
+		"category": "Misc",
+		"defname": "VFEP_ShortWalls_NAWDiagonal"
+	},
+	{
+		"abr": "dia.subterraneanairduct",
+		"price": 3,
+		"category": "Misc",
+		"defname": "VTE_UndergroundAirDuct_NAWDiagonal"
+	},
+	{
+		"abr": "dia.tirewall",
+		"price": 36,
+		"category": "Misc",
+		"defname": "oracle_TireWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.undergroundmilkpipe",
+		"price": 7,
+		"category": "Misc",
+		"defname": "MP_UndergroundMilkPipe_NAWDiagonal"
+	},
+	{
+		"abr": "dia.wallarmor",
+		"price": 84,
+		"category": "Misc",
+		"defname": "RB_OverwallArmor_NAWDiagonal"
+	},
+	{
+		"abr": "dia.wallboard",
+		"price": 4,
+		"category": "Misc",
+		"defname": "Gomi_HighWall_NAWDiagonal"
+	},
+	{
+		"abr": "dia.wallcap",
+		"price": 3,
+		"category": "Misc",
+		"defname": "Oracle_Wallcap_NAWDiagonal"
+	},
+	{
+		"abr": "dia.wallpaperwall",
+		"price": 18,
+		"category": "Misc",
+		"defname": "VFE_Wallpaper_NAWDiagonal"
+	},
+	{
+		"abr": "dia.weakwall",
+		"price": 10,
+		"category": "Misc",
+		"defname": "RB_RusticWall_NAWDiagonal"
+	},
+	{
+		"abr": "garlicplantseedbundle",
+		"price": 500,
+		"category": "Seed bundles",
+		"defname": "DankPyon_Plant_Garlic_SeedBundle"
+	},
+	{
+		"abr": "grannysmithappletreeseedbundle",
+		"price": 500,
+		"category": "Seed bundles",
+		"defname": "VCE_AppleTree_SeedBundle"
+	},
+	{
+		"abr": "grapeplantseedbundle",
+		"price": 500,
+		"category": "Seed bundles",
+		"defname": "VFEM2_Plant_Grape_SeedBundle"
+	},
+	{
+		"abr": "lemontreeseedbundle",
+		"price": 500,
+		"category": "Seed bundles",
+		"defname": "VBE_LemonTree_SeedBundle"
+	},
+	{
+		"abr": "megatechass",
+		"price": 18333,
+		"category": "Megatech",
+		"defname": "MegatechAss"
+	},
+	{
+		"abr": "megatechassinjector",
+		"price": 25000,
+		"category": "Megatech",
+		"defname": "MegatechAssInjector"
+	},
+	{
+		"abr": "megatechcreatureenlarger",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "Megatech_Enlarger"
+	},
+	{
+		"abr": "onionplantseedbundle",
+		"price": 500,
+		"category": "Seed bundles",
+		"defname": "DankPyon_Plant_Onions_SeedBundle"
+	},
+	{
+		"abr": "over-wallvent(wide)",
+		"price": 97,
+		"category": "Misc",
+		"defname": "Vent_Over2W"
+	},
+	{
+		"abr": "pumpkinplantseedbundle",
+		"price": 500,
+		"category": "Seed bundles",
+		"defname": "DankPyon_Plant_Pumpkins_SeedBundle"
+	},
+	{
+		"abr": "tomatoplantseedbundle",
+		"price": 500,
+		"category": "Seed bundles",
+		"defname": "DankPyon_Plant_Tomatoes_SeedBundle"
+	},
+	{
+		"abr": "unmarkedinjector",
+		"price": 6667,
+		"category": "Misc",
+		"defname": "Injector_Indomitable"
+	},
 	],
-	"total": 8313
+	"total": 8338
 }
